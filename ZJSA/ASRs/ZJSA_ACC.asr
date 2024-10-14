@@ -1,0 +1,113 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+
+Runways:ZJHK MEILAN 09-27:centerline
+Runways:ZJHK MEILAN 10-28:centerline
+Airports:ZJHK:symbol
+Runways:ZJQH BOAO 15-33:centerline
+Airports:ZJQH:symbol
+Runways:ZJSY PHOENIX 08-26:centerline
+Airports:ZJSY:symbol
+VORs:BHY:symbol
+VORs:DBA:symbol
+VORs:HUT:symbol
+VORs:MLT:symbol
+VORs:NYB:symbol
+VORs:SYX:symbol
+VORs:WCF:symbol
+NDBs:LH:symbol
+NDBs:AL:symbol
+NDBs:H:symbol
+NDBs:WL:symbol
+Fixes:ALEKI:symbol
+Fixes:BIGRO:symbol
+Fixes:GIVIV:symbol
+Fixes:ISBIG:symbol
+Fixes:LIDLU:symbol
+Fixes:PEGDU:symbol
+Fixes:SIKOU:symbol
+Fixes:ADKUN:symbol
+Fixes:AGPOR:symbol
+Fixes:AGTEL:symbol
+Fixes:ANPIM:symbol
+Fixes:ASSAD:symbol
+Fixes:ATALA:symbol
+Fixes:BUNTA:symbol
+Fixes:DABUB:symbol
+Fixes:DOBVI:symbol
+Fixes:DOMGO:symbol
+Fixes:DONDA:symbol
+Fixes:DOSTA:symbol
+Fixes:DOSUT:symbol
+Fixes:EGEMU:symbol
+Fixes:ENSIX:symbol
+Fixes:EPKAL:symbol
+Fixes:EXOTO:symbol
+Fixes:GULUN:symbol
+Fixes:IDLUS:symbol
+Fixes:IDUPU:symbol
+Fixes:IKELA:symbol
+Fixes:KAGUK:symbol
+Fixes:LENKO:symbol
+Fixes:MIGUG:symbol
+Fixes:MONBO:symbol
+Fixes:NONEM:symbol
+Fixes:NUMKU:symbol
+Fixes:PORAP:symbol
+Fixes:RUNEG:symbol
+Fixes:SAGSU:symbol
+Fixes:SAMAS:symbol
+Fixes:SAVNO:symbol
+Fixes:UBSIR:symbol
+Fixes:UPRIS:symbol
+Fixes:URDIN:symbol
+Fixes:VEGDO:symbol
+Fixes:XELOV:symbol
+High airways:A1:line
+High airways:A202:line
+High airways:A206:line
+High airways:G221:line
+High airways:J104:line
+High airways:L642:line
+High airways:M771:line
+High airways:N892:line
+High airways:P901:line
+High airways:R200:line
+High airways:R339:line
+High airways:V10:line
+High airways:V12:line
+High airways:V13:line
+High airways:V19:line
+High airways:V20:line
+High airways:V41:line
+High airways:V51:line
+High airways:V571:line
+High airways:W10:line
+High airways:W169:line
+High airways:W170:line
+High airways:W171:line
+High airways:W222:line
+High airways:W223:line
+High airways:W527:line
+High airways:W528:line
+High airways:W552:line
+High airways:W605:line
+High airways:W70:line
+High airways:W71:line
+
+
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0
+TAGFAMILY:TAG by BradleyLu
+WINDOWAREA:14.5:107.1897201538086:22.5049991607666:114

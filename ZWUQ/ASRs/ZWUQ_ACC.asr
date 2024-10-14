@@ -1,0 +1,164 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+
+Runways:ZW01 JIAOHE 09-27:centerline
+Airports:ZW01:symbol
+Runways:ZW02 QIUCI 08-26:centerline
+Airports:ZW02:symbol
+Runways:ZWSH LAINING 08-26:centerline
+Airports:ZWSH:symbol
+Runways:ZWTN KUNGANG 11L-29R:centerline
+Airports:ZWTN:symbol
+Runways:ZWWW DIWOPU 07-25:centerline
+Airports:ZWWW:symbol
+VORs:AKS:symbol
+VORs:DJQ:symbol
+VORs:DSC:symbol
+VORs:FKG:symbol
+VORs:HAM:symbol
+VORs:HTN:symbol
+VORs:KHG:symbol
+VORs:NLT:symbol
+VORs:QTV:symbol
+VORs:TAI:symbol
+VORs:TCH:symbol
+VORs:WUR:symbol
+VORs:XFY:symbol
+VORs:XKC:symbol
+NDBs:L:symbol
+NDBs:X:symbol
+Fixes:LIKMI:symbol
+Fixes:LEKEP:symbol
+Fixes:ADPET:symbol
+Fixes:AGOXA:symbol
+Fixes:AKLAS:symbol
+Fixes:AKVOV:symbol
+Fixes:ANORH:symbol
+Fixes:ATAXO:symbol
+Fixes:AVLIM:symbol
+Fixes:BATUS:symbol
+Fixes:BEBEP:symbol
+Fixes:BEVTA:symbol
+Fixes:BIVEX:symbol
+Fixes:DAKPA:symbol
+Fixes:DUBUV:symbol
+Fixes:DUDUR:symbol
+Fixes:DUMAM:symbol
+Fixes:EPDAG:symbol
+Fixes:ESBID:symbol
+Fixes:ESDEX:symbol
+Fixes:ESGIV:symbol
+Fixes:EXURU:symbol
+Fixes:FEAST:symbol
+Fixes:GOBOK:symbol
+Fixes:GOPTO:symbol
+Fixes:GUXIX:symbol
+Fixes:HWEST:symbol
+Fixes:IDLAL:symbol
+Fixes:IDMOL:symbol
+Fixes:IDOPU:symbol
+Fixes:IGBAV:symbol
+Fixes:IKARA:symbol
+Fixes:IPMUN:symbol
+Fixes:IRPEP:symbol
+Fixes:ISBEB:symbol
+Fixes:KABDO:symbol
+Fixes:KAGSO:symbol
+Fixes:KANPI:symbol
+Fixes:KEXAB:symbol
+Fixes:LEDEM:symbol
+Fixes:LESVI:symbol
+Fixes:LIMDO:symbol
+Fixes:LUPRO:symbol
+Fixes:MAGIV:symbol
+Fixes:MENOD:symbol
+Fixes:MIMAR:symbol
+Fixes:MULOR:symbol
+Fixes:NEAST:symbol
+Fixes:NIRAV:symbol
+Fixes:NIXER:symbol
+Fixes:NOLEP:symbol
+Fixes:NUKTI:symbol
+Fixes:ODURI:symbol
+Fixes:OGEDI:symbol
+Fixes:OGITI:symbol
+Fixes:OMDAX:symbol
+Fixes:OMKEN:symbol
+Fixes:OSUPO:symbol
+Fixes:OVMAB:symbol
+Fixes:PAMLI:symbol
+Fixes:POSOT:symbol
+Fixes:PUBAM:symbol
+Fixes:PUBUR:symbol
+Fixes:PURPA:symbol
+Fixes:QIEMO:symbol
+Fixes:REDUB:symbol
+Fixes:RIMDU:symbol
+Fixes:RULAD:symbol
+Fixes:SADAN:symbol
+Fixes:SALMO:symbol
+Fixes:SARIN:symbol
+Fixes:SUNPU:symbol
+Fixes:TAMOX:symbol
+Fixes:TAPUG:symbol
+Fixes:TEAST:symbol
+Fixes:TEPUT:symbol
+Fixes:UDOXU:symbol
+Fixes:UGPEL:symbol
+Fixes:UGTUD:symbol
+Fixes:UNVED:symbol
+Fixes:UPKOT:symbol
+Fixes:VARMI:symbol
+Fixes:VESED:symbol
+Fixes:VIDAV:symbol
+Fixes:VIDUT:symbol
+Fixes:VIKOL:symbol
+High airways:A343:line
+High airways:A368:line
+High airways:A460:line
+High airways:A468:line
+High airways:B206:line
+High airways:B215:line
+High airways:G206:line
+High airways:G325:line
+High airways:G470:line
+High airways:G588:line
+High airways:L181:line
+High airways:L26:line
+High airways:L888:line
+High airways:M166:line
+High airways:M610:line
+High airways:N126:line
+High airways:N161:line
+High airways:V116:line
+High airways:V67:line
+High airways:W112:line
+High airways:W119:line
+High airways:W176:line
+High airways:W186:line
+High airways:W187:line
+High airways:W188:line
+High airways:W189:line
+High airways:W190:line
+High airways:W191:line
+High airways:W192:line
+High airways:W66:line
+High airways:W99:line
+High airways:Y1:line
+
+
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0
+TAGFAMILY:TAG by BradleyLu
+WINDOWAREA:30.03333282470703:73.56666564941406:49.16666793823242:96.33721923828125

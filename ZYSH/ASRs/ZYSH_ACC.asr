@@ -1,0 +1,327 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+
+Runways:ZBLA HAILAR 09-27:centerline
+Airports:ZBLA:symbol
+Runways:ZBMZ XIJIAO 12-30:centerline
+Airports:ZBMZ:symbol
+Runways:ZYCC LONGJIA 06-24:centerline
+Airports:ZYCC:symbol
+Runways:ZYHB TAIPING 05L-23R:centerline
+Airports:ZYHB:symbol
+Runways:ZYJM JIAMUSI 06-24:centerline
+Airports:ZYJM:symbol
+Runways:ZYMD HAILANG 04-22:centerline
+Airports:ZYMD:symbol
+Runways:ZYQQ SANJIAZI 17L-35R:centerline
+Runways:ZYQQ SANJIAZI 17R-35L:centerline
+Airports:ZYQQ:symbol
+Runways:ZYTL ZHOUSHUIZI 10-28:centerline
+Airports:ZYTL:symbol
+Runways:ZYTX TAOXIAN 06-24:centerline
+Airports:ZYTX:symbol
+Runways:ZYYJ CHAOYANGCHUAN 09-27:centerline
+Airports:ZYYJ:symbol
+VORs:HLD:symbol
+VORs:CHF:symbol
+VORs:CHG:symbol
+VORs:CHI:symbol
+VORs:DBL:symbol
+VORs:DDG:symbol
+VORs:DHN:symbol
+VORs:FYU:symbol
+VORs:HEK:symbol
+VORs:HRB:symbol
+VORs:JMU:symbol
+VORs:KYU:symbol
+VORs:LJB:symbol
+VORs:MDJ:symbol
+VORs:MZL:symbol
+VORs:NDG:symbol
+VORs:SEY:symbol
+VORs:TGO:symbol
+VORs:WQG:symbol
+VORs:YNJ:symbol
+NDBs:UC:symbol
+NDBs:FC:symbol
+NDBs:IJ:symbol
+NDBs:J:symbol
+NDBs:KY:symbol
+NDBs:L:symbol
+NDBs:LC:symbol
+NDBs:LS:symbol
+NDBs:M:symbol
+NDBs:MJ:symbol
+NDBs:PU:symbol
+NDBs:X:symbol
+NDBs:Z:symbol
+Fixes:IKARU:symbol
+Fixes:MUDOT:symbol
+Fixes:KARPI:symbol
+Fixes:ABVAX:symbol
+Fixes:ALARA:symbol
+Fixes:ANSUK:symbol
+Fixes:APESI:symbol
+Fixes:APUKO:symbol
+Fixes:ATVOM:symbol
+Fixes:AVMUT:symbol
+Fixes:BEPGU:symbol
+Fixes:BIDIB:symbol
+Fixes:BIGBU:symbol
+Fixes:BIKOB:symbol
+Fixes:BISUN:symbol
+Fixes:BIXEG:symbol
+Fixes:BUBDI:symbol
+Fixes:BUBLO:symbol
+Fixes:BUTET:symbol
+Fixes:CC401:symbol
+Fixes:CC411:symbol
+Fixes:CC451:symbol
+Fixes:CC452:symbol
+Fixes:CC454:symbol
+Fixes:CC455:symbol
+Fixes:CC512:symbol
+Fixes:CC518:symbol
+Fixes:CC564:symbol
+Fixes:DBL64:symbol
+Fixes:DOBGA:symbol
+Fixes:DUBAM:symbol
+Fixes:DUBIK:symbol
+Fixes:DUKAG:symbol
+Fixes:DUKIR:symbol
+Fixes:DULEX:symbol
+Fixes:EKADO:symbol
+Fixes:EKULI:symbol
+Fixes:EKVOK:symbol
+Fixes:ELPUN:symbol
+Fixes:EMVIG:symbol
+Fixes:ENPEN:symbol
+Fixes:GOLOT:symbol
+Fixes:GOTSU:symbol
+Fixes:GUMOD:symbol
+Fixes:GUPUL:symbol
+Fixes:GUXEN:symbol
+Fixes:IDIMO:symbol
+Fixes:IDVOT:symbol
+Fixes:IGADO:symbol
+Fixes:IGDOS:symbol
+Fixes:IGDUT:symbol
+Fixes:IGIVU:symbol
+Fixes:IGPUP:symbol
+Fixes:IKITI:symbol
+Fixes:INTIV:symbol
+Fixes:ISBOP:symbol
+Fixes:ISGAP:symbol
+Fixes:ISKEM:symbol
+Fixes:ISLUK:symbol
+Fixes:IVPUV:symbol
+Fixes:KAGAK:symbol
+Fixes:KAKAT:symbol
+Fixes:KANVU:symbol
+Fixes:KETOV:symbol
+Fixes:LARUN:symbol
+Fixes:LEGAG:symbol
+Fixes:LELOG:symbol
+Fixes:LEMOT:symbol
+Fixes:LOTGO:symbol
+Fixes:LOVKA:symbol
+Fixes:LUMKU:symbol
+Fixes:LUVMO:symbol
+Fixes:LUXUK:symbol
+Fixes:MAGBI:symbol
+Fixes:MAGIT:symbol
+Fixes:MAKNO:symbol
+Fixes:MANLI:symbol
+Fixes:MIBAG:symbol
+Fixes:NIMEM:symbol
+Fixes:NIXEP:symbol
+Fixes:NODAL:symbol
+Fixes:NOKUV:symbol
+Fixes:NUBKI:symbol
+Fixes:NULRA:symbol
+Fixes:NUNDU:symbol
+Fixes:NUTVA:symbol
+Fixes:OBLOV:symbol
+Fixes:OGIPO:symbol
+Fixes:OMBAD:symbol
+Fixes:OMDUS:symbol
+Fixes:ONINA:symbol
+Fixes:ONOLO:symbol
+Fixes:ORAVA:symbol
+Fixes:ORAXU:symbol
+Fixes:ORIXA:symbol
+Fixes:OSUTU:symbol
+Fixes:OSVEN:symbol
+Fixes:OTABO:symbol
+Fixes:PABKI:symbol
+Fixes:PAGDO:symbol
+Fixes:PATRI:symbol
+Fixes:PIGAM:symbol
+Fixes:POVAG:symbol
+Fixes:PUMUP:symbol
+Fixes:QQ401:symbol
+Fixes:QQ403:symbol
+Fixes:RANBO:symbol
+Fixes:REDEM:symbol
+Fixes:RUPID:symbol
+Fixes:RUSBO:symbol
+Fixes:SANKO:symbol
+Fixes:SAREV:symbol
+Fixes:SARUD:symbol
+Fixes:SIMLI:symbol
+Fixes:SULTI:symbol
+Fixes:TANIB:symbol
+Fixes:TEPOD:symbol
+Fixes:TOGEP:symbol
+Fixes:TOMUK:symbol
+Fixes:TOSID:symbol
+Fixes:TX401:symbol
+Fixes:TX402:symbol
+Fixes:TX403:symbol
+Fixes:TX404:symbol
+Fixes:TX405:symbol
+Fixes:TX408:symbol
+Fixes:TX409:symbol
+Fixes:TX410:symbol
+Fixes:TX411:symbol
+Fixes:TX412:symbol
+Fixes:TX413:symbol
+Fixes:TX414:symbol
+Fixes:TX415:symbol
+Fixes:TX416:symbol
+Fixes:TX510:symbol
+Fixes:TX557:symbol
+Fixes:TX560:symbol
+Fixes:TX562:symbol
+Fixes:TX603:symbol
+Fixes:TX611:symbol
+Fixes:TX654:symbol
+Fixes:TX661:symbol
+Fixes:UDETI:symbol
+Fixes:UGABI:symbol
+Fixes:UGASA:symbol
+Fixes:UGRUP:symbol
+Fixes:UKDIN:symbol
+Fixes:UNSEK:symbol
+Fixes:UPKED:symbol
+Fixes:UPNAT:symbol
+Fixes:UPNUX:symbol
+Fixes:VABRA:symbol
+Fixes:VENOS:symbol
+Fixes:VETEX:symbol
+Fixes:VIDUX:symbol
+Fixes:VILIX:symbol
+High airways:A326:line
+High airways:A345:line
+High airways:A575:line
+High airways:A588:line
+High airways:B332:line
+High airways:B334:line
+High airways:B451:line
+High airways:G212:line
+High airways:G332:line
+High airways:G338:line
+High airways:G341:line
+High airways:G705:line
+High airways:L461:line
+High airways:L683:line
+High airways:M151:line
+High airways:M160:line
+High airways:M443:line
+High airways:P153:line
+High airways:R213:line
+High airways:R224:line
+High airways:T634:line
+High airways:V43:line
+High airways:V44:line
+High airways:V45:line
+High airways:V46:line
+High airways:V47:line
+High airways:V56:line
+High airways:V57:line
+High airways:V58:line
+High airways:V59:line
+High airways:V60:line
+High airways:V61:line
+High airways:V62:line
+High airways:V63:line
+High airways:V68:line
+High airways:V81:line
+High airways:V82:line
+High airways:V83:line
+High airways:V84:line
+High airways:V85:line
+High airways:W100:line
+High airways:W106:line
+High airways:W107:line
+High airways:W173:line
+High airways:W201:line
+High airways:W202:line
+High airways:W203:line
+High airways:W204:line
+High airways:W205:line
+High airways:W206:line
+High airways:W27:line
+High airways:W28:line
+High airways:W31:line
+High airways:W35:line
+High airways:W36:line
+High airways:W39:line
+High airways:W42:line
+High airways:W5:line
+High airways:W511:line
+High airways:W512:line
+High airways:W538:line
+High airways:W539:line
+High airways:W55:line
+High airways:W573:line
+High airways:W574:line
+High airways:W575:line
+High airways:W576:line
+High airways:W577:line
+High airways:W578:line
+High airways:W579:line
+High airways:W588:line
+High airways:W599:line
+High airways:W600:line
+High airways:W601:line
+High airways:W602:line
+High airways:W603:line
+High airways:W604:line
+High airways:W606:line
+High airways:W625:line
+High airways:W626:line
+High airways:W627:line
+High airways:W628:line
+High airways:W629:line
+High airways:W630:line
+High airways:W653:line
+High airways:W654:line
+High airways:W655:line
+High airways:W656:line
+High airways:W657:line
+High airways:W658:line
+High airways:W659:line
+High airways:W660:line
+High airways:W8:line
+High airways:W86:line
+High airways:W89:line
+Low airways:B723:line
+Low airways:G494:line
+
+
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0
+TAGFAMILY:TAG by BradleyLu
+WINDOWAREA:38:115.35416412353516:53.56666564941406:134.78334045410156

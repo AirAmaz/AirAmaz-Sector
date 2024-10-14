@@ -1,0 +1,25 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:71.81700000000001
+TAGFAMILY:TAG by BradleyLu
+WINDOWAREA:29.3298282623291:120.0267105102539:29.35552978515625:120.03639221191406
+PLUGIN:RDF Plugin for Euroscope:Threshold:-1
+PLUGIN:RDF Plugin for Euroscope:Radius:15
+PLUGIN:RDF Plugin for Euroscope:Precision:0
+PLUGIN:AirAmaz RenderPlugin:Airport:ZSYW
+PLUGIN:Ground Radar plugin:AirportElevation:273
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:ZSYW
+PLUGIN:Compass for Euroscope:CompassRotation:71.81700000000001
