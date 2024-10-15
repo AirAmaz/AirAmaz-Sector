@@ -4,7 +4,7 @@ m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
-m_ShowSimulatedData:1
+m_ShowSimulatedData:0
 m_TransitionAltitude:9000
 m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
