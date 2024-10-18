@@ -3,7 +3,6 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 
 **If you have any good suggestions or feedback regarding this sector, feel free to report them on our GitHub issue page!**
 
-#### Warning: The seat IDs we use differs from the VATPRC sector, and using both sectors simultaneously may lead to compatibility issues.
 
 ### Implemented FIRs
 - ZBPE - AIRAC2410
@@ -17,8 +16,6 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 - ZYSH - AIRAC2410
 
 ### To do
-- [ ] MVA Lines
-- [ ] MSAW Regions
 - [ ] Render Symbols & Airspace with DxRenderPlugin
 - [ ] Configuration file for MTEP
 
@@ -48,9 +45,16 @@ To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscript
 - [William He](https://github.com/fwilliamhe)
 - [Bradley.L](https://github.com/BradleyLu)
 - [天真永不消逝](https://github.com/shiguanglindi)
+- [Yifan Jin](https://github.com/N28888)
+- [8305](https://github.com/wvemil)
+- [fulkarl](https://github.com/fulkarl)
+- [Dapeng Liu](https://github.com/DapengLiu01)
 - [F̶i̶n̶a̶l̶.̶]()
 - [tn.]()
 - [Zihan Wang]()
+### Encountered a bug?
+Report in `issues`
+
 ### Declaration
 This project may include data or information sourced from publicly available internet resources. All such content remains the intellectual property of its respective owners. The use of these resources is strictly for educational and non-commercial purposes in compliance with applicable copyright laws. If you are the owner of any content used and wish for it to be removed or properly credited, please contact us, and we will take appropriate action.
 
