@@ -1,4 +1,5 @@
 VOICE
+AG:PRC_FSS Beijing Control:133.075:novoice:PRC_FSS
 AG:ZBAA_CTR Beijing Control:126.700:novoice:ZBAA_CTR
 AG:ZBHH_CTR Hohhot Control:133.700:novoice:ZBHH_CTR
 AG:ZBPE_CTR Beijing Control:125.900:novoice:ZBPE_CTR
