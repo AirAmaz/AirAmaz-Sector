@@ -14,6 +14,13 @@ Maps_Font=EuroScope
 Maps_FontSize=15
 GroundLabel_FontSize=15
 System_GroundMode_AltFilter_AAL=5000
+
+System_TagColor=255,184,108
+Color_RawVideo=139,233,253
+Color_RawVideoHistory=139,233,253
+Color_SelectedLabelFill_Gnd=68,71,90
+GroundLabel_Transparency_Bg=200
+
 Window_APP=1,2160,1010,400,300
 Window_APP_AltFilter=7900
 Window_APP_Extensions=15

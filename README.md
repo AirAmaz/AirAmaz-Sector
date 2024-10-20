@@ -3,7 +3,6 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 
 **If you have any good suggestions or feedback regarding this sector, feel free to report them on our GitHub issue page!**
 
-
 ### Implemented FIRs
 - ZBPE - AIRAC2410
 - ZGZU - AIRAC2410
@@ -18,6 +17,10 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 ### To do
 - [ ] Render Symbols & Airspace with DxRenderPlugin
 - [ ] Configuration file for MTEP
+
+### Prerequisites
+1. Before using AirAmaz sector be sure to download and install the latest C++ redistributable package from Microsoft: https://aka.ms/vs/17/release/vc_redist.x86.exe
+2. To make our render work, be sure to download and install the latest DirectX Runtime from Microsoft: https://www.microsoft.com/en-us/download/details.aspx?id=35
 
 ### Usage
 To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscription to access the necessary navigation data.

@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "colors": {
+    "apta": [159,159,159],
+    "gray": [170,170,170],
+    "apron": [135,135,135],
+    "area-closed": [255,0,0,70],
+    "area-deice": [41,122,163,100],
+    "area-park": [135,135,135],
+    "area-taxi": [109,109,109],
+    "black": [0,0,0],
+    "blast": [102,102,102],
+    "blue": [139,233,253],
+    "building": [77,77,77],
+    "holding-I": [255,106,0],
+    "holding-II": [255,0,0],
+    "orange": [255,184,108],
+    "red": [255, 255, 0, 150],
+    "rwy0": [97, 72, 72],
+    "rwy1": [72, 72, 97],
+    "rwy2": [72, 97, 72],
+    "rwy3": [84, 84, 84],
+    "shoulder": [137,137,137],
+    "terminal": [77,77,77],
+    "white": [255, 255, 255],
+    "yellow": [241,250,140,200],
+    "ground-traffic": [17,20,14],
+    "taxiway": [200,200,200]
+  },
+  "text-styles": {
+    "taxiway": {
+      "font": "c:\\Windows\\Fonts\\EuroScope.ttf",
+      "color": "white",
+      "bg-filled-color": "black",
+      "bg-outline-color": "white",
+      "size": 12.0
+    },
+    "holding": {
+      "font": "c:\\Windows\\Fonts\\EuroScope.ttf",
+      "color": "orange",
+      "bg-filled-color": "black",
+      "bg-outline-color": "orange",
+      "size": 12.0
+    },
+    "gate": {
+      "font": "c:\\Windows\\Fonts\\EuroScope.ttf",
+      "color": "white",
+      "size": 11.0
+    },
+    "runway": {
+      "font": "c:\\Windows\\Fonts\\EuroScope.ttf",
+      "color": "white",
+      "bg-filled-color": "black",
+      "bg-outline-color": "white",
+      "size": 16.0
+    },
+    "run-avail": {
+      "font": "c:\\Windows\\Fonts\\EuroScope.ttf",
+      "color": "orange",
+      "bg-filled-color": "black",
+      "size": 11.0
+    }
+  }
+}
