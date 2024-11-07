@@ -12,6 +12,8 @@ Runways:ZWTN KUNGANG 11L-29R:centerline
 Airports:ZWTN:symbol
 Runways:ZWWW DIWOPU 07-25:centerline
 Airports:ZWWW:symbol
+Runways:ZWYN YINING 06-24:centerline
+Airports:ZWYN:symbol
 VORs:AKS:symbol
 VORs:DJQ:symbol
 VORs:DSC:symbol
@@ -19,6 +21,7 @@ VORs:FKG:symbol
 VORs:HAM:symbol
 VORs:HTN:symbol
 VORs:KHG:symbol
+VORs:KLM:symbol
 VORs:NLT:symbol
 VORs:QTV:symbol
 VORs:TAI:symbol
@@ -26,6 +29,7 @@ VORs:TCH:symbol
 VORs:WUR:symbol
 VORs:XFY:symbol
 VORs:XKC:symbol
+VORs:YNN:symbol
 NDBs:L:symbol
 NDBs:X:symbol
 Fixes:LIKMI:symbol
@@ -87,6 +91,8 @@ Fixes:OMDAX:symbol
 Fixes:OMKEN:symbol
 Fixes:OSUPO:symbol
 Fixes:OVMAB:symbol
+Fixes:P165:symbol
+Fixes:P178:symbol
 Fixes:PAMLI:symbol
 Fixes:POSOT:symbol
 Fixes:PUBAM:symbol
@@ -124,6 +130,10 @@ High airways:G206:line
 High airways:G325:line
 High airways:G470:line
 High airways:G588:line
+High airways:H69:line
+High airways:H70:line
+High airways:H75:line
+High airways:H79:line
 High airways:L181:line
 High airways:L26:line
 High airways:L888:line

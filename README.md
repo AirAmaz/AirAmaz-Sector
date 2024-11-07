@@ -4,15 +4,15 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 **If you have any good suggestions or feedback regarding this sector, feel free to report them on our GitHub issue page!**
 
 ### Implemented FIRs
-- ZBPE - AIRAC2410
-- ZGZU - AIRAC2410
-- ZHWH - AIRAC2410
-- ZJSA - AIRAC2410
-- ZLHW - AIRAC2410
-- ZPKM - AIRAC2410
-- ZSHA - AIRAC2410
-- ZWUQ - AIRAC2410
-- ZYSH - AIRAC2410
+- ZBPE - AIRAC2411
+- ZGZU - AIRAC2411
+- ZHWH - AIRAC2411
+- ZJSA - AIRAC2411
+- ZLHW - AIRAC2411
+- ZPKM - AIRAC2411
+- ZSHA - AIRAC2411
+- ZWUQ - AIRAC2411
+- ZYSH - AIRAC2411
 
 ### To do
 - [ ] Render Symbols & Airspace with DxRenderPlugin

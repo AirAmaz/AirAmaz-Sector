@@ -475,10 +475,6 @@ PROFILE:ZLXY_TWR:50:4
 ATIS2:Xianyang Tower
 ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
-PROFILE:ZLYL_TWR:50:4
-ATIS2:Yulin Tower
-ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
 PROFILE:ZPJH_APP:150:5
 ATIS2:Banna Approach
 ATIS3:
@@ -961,6 +957,14 @@ ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
 PROFILE:ZYYJ_TWR:50:4
 ATIS2:Yanji Tower
+ATIS3:
+ATIS4:sector compiled by AirAmaz compiler v1.2.0
+PROFILE:ZBDT_TWR:50:4
+ATIS2:Datong Tower
+ATIS3:
+ATIS4:sector compiled by AirAmaz compiler v1.2.0
+PROFILE:ZBOW_TWR:50:4
+ATIS2:Baotou Tower
 ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
 END

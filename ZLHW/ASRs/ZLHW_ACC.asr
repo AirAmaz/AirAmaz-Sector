@@ -2,6 +2,8 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
+Runways:ZBYC YANHU 08-26:centerline
+Airports:ZBYC:symbol
 Runways:ZL02 JIUQUAN 14-32:centerline
 Airports:ZL02:symbol
 Runways:ZL03 BATANG 10-28:centerline
@@ -17,9 +19,8 @@ Airports:ZLXN:symbol
 Runways:ZLXY XIANYANG 05L-23R:centerline
 Runways:ZLXY XIANYANG 05R-23L:centerline
 Airports:ZLXY:symbol
-Runways:ZLYL YUYANG 16-34:centerline
-Airports:ZLYL:symbol
 VORs:DKO:symbol
+VORs:YCE:symbol
 VORs:AKD:symbol
 VORs:CHW:symbol
 VORs:DJC:symbol
@@ -53,6 +54,7 @@ NDBs:RA:symbol
 NDBs:ZS:symbol
 Fixes:APOGO:symbol
 Fixes:BIVAT:symbol
+Fixes:IBUDO:symbol
 Fixes:KIBIP:symbol
 Fixes:LEBOM:symbol
 Fixes:LINFN:symbol
@@ -254,6 +256,9 @@ High airways:W621:line
 High airways:W622:line
 High airways:W64:line
 High airways:W66:line
+High airways:W663:line
+High airways:W664:line
+High airways:W665:line
 High airways:W69:line
 High airways:W81:line
 High airways:W93:line

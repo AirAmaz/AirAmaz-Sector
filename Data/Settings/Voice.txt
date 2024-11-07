@@ -117,7 +117,6 @@ AG:ZLXY_APP Xi'an Approach:125.100:novoice:ZLXY_APP
 AG:ZLXY_DEL Xianyang Delivery:121.600:novoice:ZLXY_DEL
 AG:ZLXY_GND Xianyang Ground:121.650:novoice:ZLXY_GND
 AG:ZLXY_TWR Xianyang Tower:130.450:novoice:ZLXY_TWR
-AG:ZLYL_TWR Yulin Tower:118.550:novoice:ZLYL_TWR
 AG:ZPJH_APP Banna Approach:119.100:novoice:ZPJH_APP
 AG:ZPJH_GND Banna Ground:121.950:novoice:ZPJH_GND
 AG:ZPJH_TWR Banna Tower:118.600:novoice:ZPJH_TWR
@@ -239,4 +238,6 @@ AG:ZYTX_DEL Taoxian Delivery:121.675:novoice:ZYTX_DEL
 AG:ZYTX_GND Taoxian Ground:121.900:novoice:ZYTX_GND
 AG:ZYTX_TWR Taoxian Tower:118.100:novoice:ZYTX_TWR
 AG:ZYYJ_TWR Yanji Tower:118.750:novoice:ZYYJ_TWR
+AG:ZBDT_TWR Datong Tower:118.650:novoice:ZBDT_TWR
+AG:ZBOW_TWR Baotou Tower:118.200:novoice:ZBOW_TWR
 END

@@ -13,13 +13,19 @@ Runways:ZBAD DAXING 17R-35L:centerline
 Airports:ZBAD:symbol
 Runways:ZBDS EJIN HORO 13-31:centerline
 Airports:ZBDS:symbol
+Runways:ZBDT YUNGANG 14-32:centerline
+Airports:ZBDT:symbol
 Runways:ZBHH BAITA 08-26:centerline
 Airports:ZBHH:symbol
+Runways:ZBOW DONGHE 13-31:centerline
+Airports:ZBOW:symbol
 Runways:ZBSJ ZHENGDING 15-33:centerline
 Airports:ZBSJ:symbol
 Runways:ZBTJ BINHAI 16L-34R:centerline
 Runways:ZBTJ BINHAI 16R-34L:centerline
 Airports:ZBTJ:symbol
+Runways:ZBYC YANHU 08-26:centerline
+Airports:ZBYC:symbol
 Runways:ZBYN WUSU 13-31:centerline
 Airports:ZBYN:symbol
 Runways:ZHCC XINZHENG 12L-30R:centerline
@@ -30,6 +36,7 @@ Airports:ZSJN:symbol
 Runways:ZSLY QIYANG 01-19:centerline
 Airports:ZSLY:symbol
 VORs:BAV:symbol
+VORs:BJZ:symbol
 VORs:BTO:symbol
 VORs:DHC:symbol
 VORs:DKO:symbol
@@ -51,6 +58,7 @@ VORs:TYN:symbol
 VORs:TZH:symbol
 VORs:VYK:symbol
 VORs:WXI:symbol
+VORs:YCE:symbol
 VORs:CGO:symbol
 VORs:DWS:symbol
 VORs:DZY:symbol
@@ -88,6 +96,7 @@ Fixes:ADBES:symbol
 Fixes:ADPUM:symbol
 Fixes:AGOGU:symbol
 Fixes:AGRIV:symbol
+Fixes:AKNUX:symbol
 Fixes:AKPAD:symbol
 Fixes:AKVOD:symbol
 Fixes:ALBOD:symbol
@@ -159,6 +168,7 @@ Fixes:GUINS:symbol
 Fixes:GUVBA:symbol
 Fixes:GUVRI:symbol
 Fixes:IBARO:symbol
+Fixes:IBUDO:symbol
 Fixes:IDGIS:symbol
 Fixes:IDKEX:symbol
 Fixes:IDRUB:symbol
@@ -199,6 +209,7 @@ Fixes:MOSPA:symbol
 Fixes:MUDAM:symbol
 Fixes:MUDOT:symbol
 Fixes:MUGLO:symbol
+Fixes:MUGUT:symbol
 Fixes:NIRUG:symbol
 Fixes:NITID:symbol
 Fixes:NOKAK:symbol
@@ -387,6 +398,7 @@ High airways:V105:line
 High airways:V109:line
 High airways:V113:line
 High airways:V114:line
+High airways:V146:line
 High airways:V15:line
 High airways:V30:line
 High airways:V31:line
@@ -425,6 +437,7 @@ High airways:W217:line
 High airways:W220:line
 High airways:W243:line
 High airways:W244:line
+High airways:W247:line
 High airways:W28:line
 High airways:W32:line
 High airways:W33:line
@@ -472,6 +485,9 @@ High airways:W65:line
 High airways:W66:line
 High airways:W661:line
 High airways:W662:line
+High airways:W663:line
+High airways:W664:line
+High airways:W665:line
 High airways:W69:line
 High airways:W72:line
 High airways:W84:line
