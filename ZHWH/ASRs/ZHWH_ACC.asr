@@ -44,8 +44,6 @@ NDBs:ML:symbol
 NDBs:NO:symbol
 NDBs:VL:symbol
 Fixes:PADNO:symbol
-Fixes:GUDRO:symbol
-Fixes:GUSIV:symbol
 Fixes:OMGIB:symbol
 Fixes:AGSOS:symbol
 Fixes:AKOMA:symbol
@@ -63,6 +61,7 @@ Fixes:DUBAS:symbol
 Fixes:DUBNA:symbol
 Fixes:DUDBI:symbol
 Fixes:EKORO:symbol
+Fixes:EMVIL:symbol
 Fixes:ENLAB:symbol
 Fixes:ENSOX:symbol
 Fixes:EPGOS:symbol
@@ -151,7 +150,7 @@ Fixes:VEXAN:symbol
 Fixes:VIBUB:symbol
 Fixes:VINIG:symbol
 Fixes:MIDOX:symbol
-Fixes:TULMU:symbol
+Fixes:PONEP:symbol
 Fixes:TOSIM:symbol
 High airways:A461:line
 High airways:A581:line
@@ -173,7 +172,6 @@ High airways:V113:line
 High airways:V114:line
 High airways:V33:line
 High airways:V38:line
-High airways:V52:line
 High airways:V54:line
 High airways:V65:line
 High airways:V78:line
@@ -231,3 +229,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:29.03333282470703:109.1441650390625:36.66666793823242:116.1258316040039
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

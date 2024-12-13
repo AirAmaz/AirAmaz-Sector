@@ -167,7 +167,6 @@ Fixes:IKUBA:symbol
 Fixes:ABTUB:symbol
 Fixes:ABVIL:symbol
 Fixes:ADBAS:symbol
-Fixes:AGAVO:symbol
 Fixes:AGPUX:symbol
 Fixes:AKAMI:symbol
 Fixes:AKARA:symbol
@@ -190,7 +189,6 @@ Fixes:ANLUD:symbol
 Fixes:ANONU:symbol
 Fixes:ANQIG:symbol
 Fixes:APAKA:symbol
-Fixes:APITO:symbol
 Fixes:ATLED:symbol
 Fixes:ATLIX:symbol
 Fixes:ATRIP:symbol
@@ -339,7 +337,6 @@ Fixes:OKALI:symbol
 Fixes:OKATO:symbol
 Fixes:OKTUG:symbol
 Fixes:OLDAX:symbol
-Fixes:OLDID:symbol
 Fixes:OLGAP:symbol
 Fixes:OLRED:symbol
 Fixes:OLRIS:symbol
@@ -422,9 +419,9 @@ Fixes:TEKAM:symbol
 Fixes:TEPAG:symbol
 Fixes:TESIG:symbol
 Fixes:TOGUG:symbol
-Fixes:TOLAK:symbol
 Fixes:TONIX:symbol
 Fixes:TOSAS:symbol
+Fixes:TULMU:symbol
 Fixes:TUPGA:symbol
 Fixes:TUSGI:symbol
 Fixes:TUTKI:symbol
@@ -482,6 +479,7 @@ High airways:R343:line
 High airways:R596:line
 High airways:V104:line
 High airways:V106:line
+High airways:V108:line
 High airways:V11:line
 High airways:V112:line
 High airways:V14:line
@@ -629,10 +627,6 @@ High airways:W67:line
 High airways:W73:line
 High airways:W8:line
 High airways:W95:line
-High airways:Y590:line
-High airways:Y644:line
-High airways:Y697:line
-High airways:Z55:line
 Low airways:W2:line
 
 
@@ -650,3 +644,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:22.797008514404297:113.94999694824219:38.25:125
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

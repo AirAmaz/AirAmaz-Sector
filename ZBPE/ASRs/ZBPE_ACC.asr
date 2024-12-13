@@ -242,6 +242,7 @@ Fixes:PIDOX:symbol
 Fixes:PIGAN:symbol
 Fixes:PINAP:symbol
 Fixes:POKOR:symbol
+Fixes:POLHO:symbol
 Fixes:PONAV:symbol
 Fixes:POXUS:symbol
 Fixes:PUKOL:symbol
@@ -269,6 +270,7 @@ Fixes:TOREL:symbol
 Fixes:TUMLO:symbol
 Fixes:TUMRI:symbol
 Fixes:TUSLA:symbol
+Fixes:TUTNA:symbol
 Fixes:UBRAG:symbol
 Fixes:UBSEV:symbol
 Fixes:UDIGU:symbol
@@ -311,9 +313,7 @@ Fixes:DOSKU:symbol
 Fixes:DUBAG:symbol
 Fixes:DUDBI:symbol
 Fixes:EKORO:symbol
-Fixes:ENLAB:symbol
 Fixes:EPGOS:symbol
-Fixes:ESMEB:symbol
 Fixes:GUKNA:symbol
 Fixes:GUTOV:symbol
 Fixes:GUTUS:symbol
@@ -348,13 +348,12 @@ Fixes:UNTEL:symbol
 Fixes:UPNEM:symbol
 Fixes:URGIN:symbol
 Fixes:VADMO:symbol
-Fixes:VARDU:symbol
 Fixes:VENUT:symbol
 Fixes:VETIP:symbol
 Fixes:VINIG:symbol
 Fixes:AVNOT:symbol
 Fixes:MAKIP:symbol
-Fixes:OLTIT:symbol
+Fixes:MAPMU:symbol
 Fixes:OTBUL:symbol
 Fixes:SANID:symbol
 Fixes:ABTUB:symbol
@@ -519,3 +518,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:32.125:105.22916412353516:45.45000076293945:120
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

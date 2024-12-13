@@ -80,11 +80,6 @@ NDBs:OS:symbol
 NDBs:RG:symbol
 NDBs:SB:symbol
 NDBs:ZW:symbol
-Fixes:ELKAL:symbol
-Fixes:LAGEX:symbol
-Fixes:MEPAN:symbol
-Fixes:TESIL:symbol
-Fixes:GUKEX:symbol
 Fixes:LUVAR:symbol
 Fixes:44SGM:symbol
 Fixes:ADBAG:symbol
@@ -133,6 +128,7 @@ Fixes:URGIX:symbol
 Fixes:XISLI:symbol
 Fixes:ABVIR:symbol
 Fixes:AGTIS:symbol
+Fixes:AGULU:symbol
 Fixes:AKBEK:symbol
 Fixes:AKDIK:symbol
 Fixes:AKOPI:symbol
@@ -336,7 +332,6 @@ High airways:B218:line
 High airways:B330:line
 High airways:B345:line
 High airways:G212:line
-High airways:G586:line
 High airways:J11:line
 High airways:J112:line
 High airways:J90:line
@@ -421,3 +416,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:21.149999618530273:81.625:36.41666793823242:109.51667022705078
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

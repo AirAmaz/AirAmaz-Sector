@@ -685,13 +685,13 @@ Fixes:PADNO:symbol
 Fixes:PADSA:symbol
 Fixes:PAMDA:symbol
 Fixes:PAMRU:symbol
-Fixes:PANKI:symbol
 Fixes:PARTU:symbol
 Fixes:PEGSO:symbol
 Fixes:PIDOX:symbol
 Fixes:PIGAN:symbol
 Fixes:PINAP:symbol
 Fixes:POKOR:symbol
+Fixes:POLHO:symbol
 Fixes:PONAV:symbol
 Fixes:POXUS:symbol
 Fixes:PUKOL:symbol
@@ -716,7 +716,6 @@ Fixes:TODAM:symbol
 Fixes:TONIL:symbol
 Fixes:TONOV:symbol
 Fixes:TOREL:symbol
-Fixes:TUMLO:symbol
 Fixes:TUMRI:symbol
 Fixes:TUSLA:symbol
 Fixes:TUTNA:symbol
@@ -893,7 +892,6 @@ Fixes:SANIP:symbol
 Fixes:SAREX:symbol
 Fixes:SARUG:symbol
 Fixes:SEBMO:symbol
-Fixes:SIKOU:symbol
 Fixes:SULAS:symbol
 Fixes:SUMDO:symbol
 Fixes:SUMIB:symbol
@@ -1065,8 +1063,6 @@ Fixes:IDUPU:symbol
 Fixes:IKELA:symbol
 Fixes:KAGUK:symbol
 Fixes:LENKO:symbol
-Fixes:MIGUG:symbol
-Fixes:MONBO:symbol
 Fixes:NONEM:symbol
 Fixes:NUMKU:symbol
 Fixes:PORAP:symbol
@@ -1240,7 +1236,6 @@ Fixes:XISLI:symbol
 Fixes:ABTUB:symbol
 Fixes:ABVIL:symbol
 Fixes:ADBAS:symbol
-Fixes:AGAVO:symbol
 Fixes:AGPUX:symbol
 Fixes:AKAMI:symbol
 Fixes:AKARA:symbol
@@ -1263,7 +1258,6 @@ Fixes:ANLUD:symbol
 Fixes:ANONU:symbol
 Fixes:ANQIG:symbol
 Fixes:APAKA:symbol
-Fixes:APITO:symbol
 Fixes:ATLED:symbol
 Fixes:ATLIX:symbol
 Fixes:ATRIP:symbol
@@ -1360,7 +1354,6 @@ Fixes:KAPGU:symbol
 Fixes:KARPI:symbol
 Fixes:KIKEG:symbol
 Fixes:LAGAL:symbol
-Fixes:LAMEN:symbol
 Fixes:LAMIM:symbol
 Fixes:LAPEN:symbol
 Fixes:LAROP:symbol
@@ -1412,7 +1405,6 @@ Fixes:OKALI:symbol
 Fixes:OKATO:symbol
 Fixes:OKTUG:symbol
 Fixes:OLDAX:symbol
-Fixes:OLDID:symbol
 Fixes:OLGAP:symbol
 Fixes:OLRED:symbol
 Fixes:OLRIS:symbol
@@ -1495,7 +1487,6 @@ Fixes:TEKAM:symbol
 Fixes:TEPAG:symbol
 Fixes:TESIG:symbol
 Fixes:TOGUG:symbol
-Fixes:TOLAK:symbol
 Fixes:TONIX:symbol
 Fixes:TOSAS:symbol
 Fixes:TULMU:symbol
@@ -1975,7 +1966,6 @@ Fixes:VIDUX:symbol
 Fixes:VILIX:symbol
 High airways:A1:line
 High airways:A202:line
-High airways:A206:line
 High airways:A326:line
 High airways:A343:line
 High airways:A345:line
@@ -2036,7 +2026,6 @@ High airways:H75:line
 High airways:H76:line
 High airways:H79:line
 High airways:J103:line
-High airways:J104:line
 High airways:J11:line
 High airways:J112:line
 High airways:J90:line
@@ -2056,7 +2045,6 @@ High airways:M610:line
 High airways:M771:line
 High airways:N126:line
 High airways:N161:line
-High airways:N892:line
 High airways:P153:line
 High airways:P901:line
 High airways:R200:line
@@ -2135,7 +2123,6 @@ High airways:V54:line
 High airways:V55:line
 High airways:V56:line
 High airways:V57:line
-High airways:V571:line
 High airways:V58:line
 High airways:V59:line
 High airways:V60:line
@@ -2176,7 +2163,6 @@ High airways:V93:line
 High airways:V94:line
 High airways:V97:line
 High airways:V99:line
-High airways:W10:line
 High airways:W100:line
 High airways:W101:line
 High airways:W102:line
@@ -2543,12 +2529,9 @@ High airways:Y345:line
 High airways:Y478:line
 High airways:Y520:line
 High airways:Y618:line
-High airways:Y644:line
 High airways:Y651:line
 High airways:Y655:line
-High airways:Y697:line
 High airways:Y962:line
-High airways:Z55:line
 Low airways:B723:line
 Low airways:G494:line
 
@@ -2567,3 +2550,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:14.5:73.56666564941406:53.56666564941406:134.78334045410156
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

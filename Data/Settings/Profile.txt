@@ -223,6 +223,10 @@ PROFILE:ZBTJ_TWR:50:4
 ATIS2:Tianjin Tower
 ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
+PROFILE:ZBYC_TWR:50:4
+ATIS2:Yuncheng Tower
+ATIS3:
+ATIS4:sector compiled by AirAmaz compiler v1.2.0
 PROFILE:ZBYN_APP:150:5
 ATIS2:Taiyuan Approach
 ATIS3:
@@ -413,6 +417,14 @@ ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
 PROFILE:ZJSY_TWR:50:4
 ATIS2:Fenghuang Tower
+ATIS3:
+ATIS4:sector compiled by AirAmaz compiler v1.2.0
+PROFILE:ZL02_TWR:50:4
+ATIS2:Jiayuguan Tower
+ATIS3:
+ATIS4:sector compiled by AirAmaz compiler v1.2.0
+PROFILE:ZL03_TWR:50:4
+ATIS2:Yushu Tower
 ATIS3:
 ATIS4:sector compiled by AirAmaz compiler v1.2.0
 PROFILE:ZLDH_TWR:50:4

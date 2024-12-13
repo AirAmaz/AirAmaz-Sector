@@ -55,6 +55,7 @@ NDBs:ZS:symbol
 Fixes:APOGO:symbol
 Fixes:BIVAT:symbol
 Fixes:IBUDO:symbol
+Fixes:IPNON:symbol
 Fixes:KIBIP:symbol
 Fixes:LEBOM:symbol
 Fixes:LINFN:symbol
@@ -63,8 +64,9 @@ Fixes:OMDIS:symbol
 Fixes:PONAV:symbol
 Fixes:SAVPA:symbol
 Fixes:TUTNA:symbol
+Fixes:UDIGU:symbol
 Fixes:UGOTU:symbol
-Fixes:EMVIL:symbol
+Fixes:VIKON:symbol
 Fixes:IGADA:symbol
 Fixes:LIMGI:symbol
 Fixes:OMLIX:symbol
@@ -119,6 +121,7 @@ Fixes:LAXEV:symbol
 Fixes:LEBAK:symbol
 Fixes:LELUX:symbol
 Fixes:LEVGI:symbol
+Fixes:LIKMI:symbol
 Fixes:LOVRA:symbol
 Fixes:LUSMA:symbol
 Fixes:LUVAR:symbol
@@ -157,6 +160,7 @@ Fixes:PIKEM:symbol
 Fixes:RURAV:symbol
 Fixes:RUSAT:symbol
 Fixes:SADBU:symbol
+Fixes:SANID:symbol
 Fixes:SUNUV:symbol
 Fixes:TEBIB:symbol
 Fixes:TEMOL:symbol
@@ -182,14 +186,12 @@ Fixes:XOGAB:symbol
 Fixes:AGULU:symbol
 Fixes:AKVEP:symbol
 Fixes:DUBID:symbol
-Fixes:GOKEB:symbol
 Fixes:IDVEM:symbol
-Fixes:OBMIG:symbol
 Fixes:OLBAS:symbol
 Fixes:OMBON:symbol
 Fixes:OVRAL:symbol
-Fixes:SUBUL:symbol
 Fixes:ADMUX:symbol
+Fixes:BEVTA:symbol
 Fixes:MAGOD:symbol
 Fixes:RUSDI:symbol
 High airways:A573:line
@@ -236,7 +238,6 @@ High airways:W217:line
 High airways:W218:line
 High airways:W219:line
 High airways:W220:line
-High airways:W230:line
 High airways:W233:line
 High airways:W242:line
 High airways:W28:line
@@ -260,6 +261,7 @@ High airways:W663:line
 High airways:W664:line
 High airways:W665:line
 High airways:W69:line
+High airways:W72:line
 High airways:W81:line
 High airways:W93:line
 High airways:W94:line
@@ -283,3 +285,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:31.816667556762695:87.11944580078125:42.91666793823242:112.42111206054688
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

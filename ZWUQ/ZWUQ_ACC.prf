@@ -20,6 +20,10 @@ Plugins	Plugin4	\..\Data\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 
+Plugins	Plugin5	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin5Display1	Ground Radar display
+
 Settings	aircraft	\..\Data\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\..\Data\ICAO\ICAO_Airlines.txt
 Settings	airports	\..\Data\ICAO\ICAO_Airports.txt

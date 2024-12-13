@@ -54,6 +54,7 @@ AG:ZBTJ_APP Tianjin Approach:127.900:novoice:ZBTJ_APP
 AG:ZBTJ_DEL Tianjin Delivery:121.800:novoice:ZBTJ_DEL
 AG:ZBTJ_GND Tianjin Ground:121.950:novoice:ZBTJ_GND
 AG:ZBTJ_TWR Tianjin Tower:118.200:novoice:ZBTJ_TWR
+AG:ZBYC_TWR Yuncheng Tower:118.700:novoice:ZBYC_TWR
 AG:ZBYN_APP Taiyuan Approach:119.200:novoice:ZBYN_APP
 AG:ZBYN_DEL Taiyuan Delivery:121.925:novoice:ZBYN_DEL
 AG:ZBYN_GND Taiyuan Ground:121.800:novoice:ZBYN_GND
@@ -102,6 +103,8 @@ AG:ZJQH_TWR Boao Tower:118.025:novoice:ZJQH_TWR
 AG:ZJSY_APP Sanya Approach:125.550:novoice:ZJSY_APP
 AG:ZJSY_GND Fenghuang Ground:121.700:novoice:ZJSY_GND
 AG:ZJSY_TWR Fenghuang Tower:118.150:novoice:ZJSY_TWR
+AG:ZL02_TWR Jiayuguan Tower:118.200:novoice:ZL02_TWR
+AG:ZL03_TWR Yushu Tower:118.450:novoice:ZL03_TWR
 AG:ZLDH_TWR Dunhuang Tower:118.600:novoice:ZLDH_TWR
 AG:ZLIC_APP Yinchuan Approach:124.050:novoice:ZLIC_APP
 AG:ZLIC_GND Yinchuan Ground:121.800:novoice:ZLIC_GND

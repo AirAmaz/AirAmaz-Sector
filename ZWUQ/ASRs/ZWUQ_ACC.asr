@@ -33,7 +33,6 @@ VORs:YNN:symbol
 NDBs:L:symbol
 NDBs:X:symbol
 Fixes:LIKMI:symbol
-Fixes:LEKEP:symbol
 Fixes:ADPET:symbol
 Fixes:AGOXA:symbol
 Fixes:AKLAS:symbol
@@ -172,3 +171,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:30.03333282470703:73.56666564941406:49.16666793823242:96.33721923828125
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY

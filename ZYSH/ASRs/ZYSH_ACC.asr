@@ -58,7 +58,6 @@ NDBs:X:symbol
 NDBs:Z:symbol
 Fixes:IKARU:symbol
 Fixes:MUDOT:symbol
-Fixes:KARPI:symbol
 Fixes:ABVAX:symbol
 Fixes:ALARA:symbol
 Fixes:ANSUK:symbol
@@ -135,7 +134,6 @@ Fixes:MAKNO:symbol
 Fixes:MANLI:symbol
 Fixes:MIBAG:symbol
 Fixes:NIMEM:symbol
-Fixes:NIXEP:symbol
 Fixes:NODAL:symbol
 Fixes:NOKUV:symbol
 Fixes:NUBKI:symbol
@@ -152,7 +150,6 @@ Fixes:ORAVA:symbol
 Fixes:ORAXU:symbol
 Fixes:ORIXA:symbol
 Fixes:OSUTU:symbol
-Fixes:OSVEN:symbol
 Fixes:OTABO:symbol
 Fixes:PABKI:symbol
 Fixes:PAGDO:symbol
@@ -166,7 +163,6 @@ Fixes:RANBO:symbol
 Fixes:REDEM:symbol
 Fixes:RUPID:symbol
 Fixes:RUSBO:symbol
-Fixes:SANKO:symbol
 Fixes:SAREV:symbol
 Fixes:SARUD:symbol
 Fixes:SIMLI:symbol
@@ -282,7 +278,6 @@ High airways:W576:line
 High airways:W577:line
 High airways:W578:line
 High airways:W579:line
-High airways:W588:line
 High airways:W599:line
 High airways:W600:line
 High airways:W601:line
@@ -325,3 +320,4 @@ DISABLEZOOMING:0
 DisplayRotation:0
 TAGFAMILY:TAG by BradleyLu
 WINDOWAREA:38:115.35416412353516:53.56666564941406:134.78334045410156
+PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY
