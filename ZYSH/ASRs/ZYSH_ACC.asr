@@ -2,26 +2,26 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBLA HAILAR 09-27:centerline
+Runways:ZBLA 呼伦贝尔/海拉尔 HULUNBEIER/Hailar 09-27:centerline
 Airports:ZBLA:symbol
-Runways:ZBMZ XIJIAO 12-30:centerline
+Runways:ZBMZ 满洲里/西郊 MANZHOULI/Xijiao 12-30:centerline
 Airports:ZBMZ:symbol
-Runways:ZYCC LONGJIA 06-24:centerline
+Runways:ZYCC 长春/龙嘉 CHANGCHUN/Longjia 06-24:centerline
 Airports:ZYCC:symbol
-Runways:ZYHB TAIPING 05L-23R:centerline
+Runways:ZYHB 哈尔滨/太平 HARBIN/Taiping 05L-23R:centerline
 Airports:ZYHB:symbol
-Runways:ZYJM JIAMUSI 06-24:centerline
+Runways:ZYJM 佳木斯 JIAMUSI/Jiamusi 06-24:centerline
 Airports:ZYJM:symbol
-Runways:ZYMD HAILANG 04-22:centerline
+Runways:ZYMD 牡丹江/海浪 MUDANJIANG/Hailang 04-22:centerline
 Airports:ZYMD:symbol
-Runways:ZYQQ SANJIAZI 17L-35R:centerline
-Runways:ZYQQ SANJIAZI 17R-35L:centerline
+Runways:ZYQQ 齐齐哈尔/三家子 QIQIHAR/Sanjiazi 17L-35R:centerline
+Runways:ZYQQ 齐齐哈尔/三家子 QIQIHAR/Sanjiazi 17R-35L:centerline
 Airports:ZYQQ:symbol
-Runways:ZYTL ZHOUSHUIZI 10-28:centerline
+Runways:ZYTL 大连/周水子 DALIAN/Zhoushuizi 10-28:centerline
 Airports:ZYTL:symbol
-Runways:ZYTX TAOXIAN 06-24:centerline
+Runways:ZYTX 沈阳/桃仙 SHENYANG/Taoxian 06-24:centerline
 Airports:ZYTX:symbol
-Runways:ZYYJ CHAOYANGCHUAN 09-27:centerline
+Runways:ZYYJ 延吉/朝阳川 YANJI/Chaoyangchuan 09-27:centerline
 Airports:ZYYJ:symbol
 VORs:HLD:symbol
 VORs:CHF:symbol
@@ -56,15 +56,28 @@ NDBs:MJ:symbol
 NDBs:PU:symbol
 NDBs:X:symbol
 NDBs:Z:symbol
+Fixes:ANDIN:symbol
+Fixes:ANOBI:symbol
 Fixes:IKARU:symbol
 Fixes:MUDOT:symbol
+Fixes:OPIMU:symbol
+Fixes:OVTUP:symbol
+Fixes:SARUL:symbol
+Fixes:UKDUM:symbol
+Fixes:VAPGU:symbol
+Fixes:PONIL:symbol
+Fixes:KARPI:symbol
+Fixes:OBDIS:symbol
 Fixes:ABVAX:symbol
 Fixes:ALARA:symbol
+Fixes:ANRAT:symbol
 Fixes:ANSUK:symbol
 Fixes:APESI:symbol
 Fixes:APUKO:symbol
+Fixes:ARGUK:symbol
 Fixes:ATVOM:symbol
 Fixes:AVMUT:symbol
+Fixes:BEBAN:symbol
 Fixes:BEPGU:symbol
 Fixes:BIDIB:symbol
 Fixes:BIGBU:symbol
@@ -134,6 +147,7 @@ Fixes:MAKNO:symbol
 Fixes:MANLI:symbol
 Fixes:MIBAG:symbol
 Fixes:NIMEM:symbol
+Fixes:NIXEP:symbol
 Fixes:NODAL:symbol
 Fixes:NOKUV:symbol
 Fixes:NUBKI:symbol
@@ -150,6 +164,7 @@ Fixes:ORAVA:symbol
 Fixes:ORAXU:symbol
 Fixes:ORIXA:symbol
 Fixes:OSUTU:symbol
+Fixes:OSVEN:symbol
 Fixes:OTABO:symbol
 Fixes:PABKI:symbol
 Fixes:PAGDO:symbol
@@ -163,11 +178,13 @@ Fixes:RANBO:symbol
 Fixes:REDEM:symbol
 Fixes:RUPID:symbol
 Fixes:RUSBO:symbol
+Fixes:SANKO:symbol
 Fixes:SAREV:symbol
 Fixes:SARUD:symbol
 Fixes:SIMLI:symbol
 Fixes:SULTI:symbol
 Fixes:TANIB:symbol
+Fixes:TELOK:symbol
 Fixes:TEPOD:symbol
 Fixes:TOGEP:symbol
 Fixes:TOMUK:symbol
@@ -204,6 +221,7 @@ Fixes:UPKED:symbol
 Fixes:UPNAT:symbol
 Fixes:UPNUX:symbol
 Fixes:VABRA:symbol
+Fixes:VASRO:symbol
 Fixes:VENOS:symbol
 Fixes:VETEX:symbol
 Fixes:VIDUX:symbol
@@ -212,6 +230,8 @@ High airways:A326:line
 High airways:A345:line
 High airways:A575:line
 High airways:A588:line
+High airways:A810:line
+High airways:B150:line
 High airways:B332:line
 High airways:B334:line
 High airways:B451:line
@@ -219,16 +239,22 @@ High airways:G212:line
 High airways:G332:line
 High airways:G338:line
 High airways:G341:line
+High airways:G492:line
 High airways:G705:line
 High airways:L461:line
 High airways:L683:line
 High airways:M151:line
 High airways:M160:line
 High airways:M443:line
+High airways:M825:line
+High airways:N222:line
+High airways:N622:line
 High airways:P153:line
+High airways:P175:line
 High airways:R213:line
 High airways:R224:line
 High airways:T634:line
+High airways:T656:line
 High airways:V43:line
 High airways:V44:line
 High airways:V45:line
@@ -248,6 +274,8 @@ High airways:V82:line
 High airways:V83:line
 High airways:V84:line
 High airways:V85:line
+High airways:V9:line
+High airways:W1:line
 High airways:W100:line
 High airways:W106:line
 High airways:W107:line
@@ -261,10 +289,13 @@ High airways:W206:line
 High airways:W27:line
 High airways:W28:line
 High airways:W31:line
+High airways:W33:line
+High airways:W34:line
 High airways:W35:line
 High airways:W36:line
 High airways:W39:line
 High airways:W42:line
+High airways:W49:line
 High airways:W5:line
 High airways:W511:line
 High airways:W512:line
@@ -278,6 +309,7 @@ High airways:W576:line
 High airways:W577:line
 High airways:W578:line
 High airways:W579:line
+High airways:W588:line
 High airways:W599:line
 High airways:W600:line
 High airways:W601:line
@@ -302,8 +334,11 @@ High airways:W660:line
 High airways:W8:line
 High airways:W86:line
 High airways:W89:line
+High airways:Y165:line
+High airways:Y631:line
 Low airways:B723:line
 Low airways:G494:line
+Low airways:W292:line
 
 
 SHOWC:1

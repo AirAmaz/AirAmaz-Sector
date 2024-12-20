@@ -4,34 +4,36 @@ DisplayTypeGeoReferenced:1
 
 Runways:ZL03 BATANG 10-28:centerline
 Airports:ZL03:symbol
-Runways:ZPJH GASA 16-34:centerline
+Runways:ZPJH 西双版纳/嘎洒 XISHUANGBANNA/Gasa 16-34:centerline
 Airports:ZPJH:symbol
-Runways:ZPLJ SANYI 02-20:centerline
+Runways:ZPLJ 丽江/三义 LIJIANG/Sanyi 02-20:centerline
 Airports:ZPLJ:symbol
-Runways:ZPMS MANGSHI 05-23:centerline
+Runways:ZPMS 德宏/芒市 DEHONG/Mangshi 05-23:centerline
 Airports:ZPMS:symbol
-Runways:ZPPP CHANGSHUI 03-21:centerline
-Runways:ZPPP CHANGSHUI 04-22:centerline
+Runways:ZPPP 昆明/长水 KUNMING/Changshui 03-21:centerline
+Runways:ZPPP 昆明/长水 KUNMING/Changshui 04-22:centerline
 Airports:ZPPP:symbol
-Runways:ZUCK JIANGBEI 02L-20R:centerline
-Runways:ZUCK JIANGBEI 02R-20L:centerline
-Runways:ZUCK JIANGBEI 03-21:centerline
+Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 02L-20R:centerline
+Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 02R-20L:centerline
+Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 03-21:centerline
 Airports:ZUCK:symbol
-Runways:ZUGY LONGDONGBAO 01L-19R:centerline
-Runways:ZUGY LONGDONGBAO 01R-19L:centerline
+Runways:ZUGY 贵阳/龙洞堡 GUIYANG/Longdongbao 01L-19R:centerline
+Runways:ZUGY 贵阳/龙洞堡 GUIYANG/Longdongbao 01R-19L:centerline
 Airports:ZUGY:symbol
-Runways:ZULS GONGGAR 10L-28R:centerline
-Runways:ZULS GONGGAR 10R-28L:centerline
+Runways:ZULS 拉萨/贡嘎 LHASA/Gonggar 10L-28R:centerline
+Runways:ZULS 拉萨/贡嘎 LHASA/Gonggar 10R-28L:centerline
 Airports:ZULS:symbol
-Runways:ZUTF TIANFU 01-19:centerline
-Runways:ZUTF TIANFU 02-20:centerline
-Runways:ZUTF TIANFU 11-29:centerline
+Runways:ZUTF 成都/天府 CHENGDU/Tianfu 01-19:centerline
+Runways:ZUTF 成都/天府 CHENGDU/Tianfu 02-20:centerline
+Runways:ZUTF 成都/天府 CHENGDU/Tianfu 11-29:centerline
 Airports:ZUTF:symbol
-Runways:ZUUU SHUANGLIU 02L-20R:centerline
-Runways:ZUUU SHUANGLIU 02R-20L:centerline
+Runways:ZUUU 成都/双流 CHENGDU/Shuangliu 02L-20R:centerline
+Runways:ZUUU 成都/双流 CHENGDU/Shuangliu 02R-20L:centerline
 Airports:ZUUU:symbol
-Runways:ZUXC QINGSHAN 18-36:centerline
+Runways:ZUXC 西昌/青山 XICHANG/Qingshan 18-36:centerline
 Airports:ZUXC:symbol
+VORs:HUY:symbol
+VORs:ENH:symbol
 VORs:BNN:symbol
 VORs:CEH:symbol
 VORs:DAL:symbol
@@ -80,6 +82,16 @@ NDBs:OS:symbol
 NDBs:RG:symbol
 NDBs:SB:symbol
 NDBs:ZW:symbol
+Fixes:ELKAL:symbol
+Fixes:IDEPO:symbol
+Fixes:LAGEX:symbol
+Fixes:MEPAN:symbol
+Fixes:TESIL:symbol
+Fixes:DELEG:symbol
+Fixes:ENSOX:symbol
+Fixes:GUKEX:symbol
+Fixes:IGITA:symbol
+Fixes:KADKI:symbol
 Fixes:LUVAR:symbol
 Fixes:44SGM:symbol
 Fixes:ADBAG:symbol
@@ -232,6 +244,7 @@ Fixes:MUMIK:symbol
 Fixes:NIKUN:symbol
 Fixes:NINAP:symbol
 Fixes:NIXID:symbol
+Fixes:NONIM:symbol
 Fixes:NONOV:symbol
 Fixes:NONUG:symbol
 Fixes:NOPIR:symbol
@@ -332,8 +345,10 @@ High airways:B218:line
 High airways:B330:line
 High airways:B345:line
 High airways:G212:line
+High airways:G586:line
 High airways:J11:line
 High airways:J112:line
+High airways:J23:line
 High airways:J90:line
 High airways:J91:line
 High airways:L888:line
@@ -343,9 +358,12 @@ High airways:V38:line
 High airways:V50:line
 High airways:V69:line
 High airways:V86:line
+High airways:W102:line
 High airways:W12:line
 High airways:W136:line
 High airways:W137:line
+High airways:W139:line
+High airways:W140:line
 High airways:W143:line
 High airways:W144:line
 High airways:W145:line
@@ -391,6 +409,7 @@ High airways:W550:line
 High airways:W584:line
 High airways:W585:line
 High airways:W586:line
+High airways:W6:line
 High airways:W60:line
 High airways:W632:line
 High airways:W633:line

@@ -2,12 +2,12 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZJHK MEILAN 09-27:centerline
-Runways:ZJHK MEILAN 10-28:centerline
+Runways:ZJHK 海口/美兰 HAIKOU/Meilan 09-27:centerline
+Runways:ZJHK 海口/美兰 HAIKOU/Meilan 10-28:centerline
 Airports:ZJHK:symbol
-Runways:ZJQH BOAO 15-33:centerline
+Runways:ZJQH 琼海/博鳌 QIONGHAI/Boao 15-33:centerline
 Airports:ZJQH:symbol
-Runways:ZJSY PHOENIX 08-26:centerline
+Runways:ZJSY 三亚/凤凰 SANYA/Phoenix 08-26:centerline
 Airports:ZJSY:symbol
 VORs:BHY:symbol
 VORs:DBA:symbol
@@ -26,6 +26,8 @@ Fixes:GIVIV:symbol
 Fixes:ISBIG:symbol
 Fixes:LIDLU:symbol
 Fixes:PEGDU:symbol
+Fixes:SIKOU:symbol
+Fixes:72PCA:symbol
 Fixes:ADKUN:symbol
 Fixes:AGPOR:symbol
 Fixes:AGTEL:symbol
@@ -49,6 +51,8 @@ Fixes:IDUPU:symbol
 Fixes:IKELA:symbol
 Fixes:KAGUK:symbol
 Fixes:LENKO:symbol
+Fixes:MIGUG:symbol
+Fixes:MONBO:symbol
 Fixes:NONEM:symbol
 Fixes:NUMKU:symbol
 Fixes:PORAP:symbol
@@ -65,17 +69,21 @@ High airways:A1:line
 High airways:A202:line
 High airways:A206:line
 High airways:G221:line
+High airways:J104:line
 High airways:L642:line
 High airways:M771:line
+High airways:N892:line
 High airways:P901:line
 High airways:R200:line
 High airways:R339:line
+High airways:V10:line
 High airways:V12:line
 High airways:V13:line
 High airways:V19:line
 High airways:V20:line
 High airways:V41:line
 High airways:V51:line
+High airways:V571:line
 High airways:W10:line
 High airways:W169:line
 High airways:W170:line

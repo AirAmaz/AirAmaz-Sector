@@ -6,11 +6,11 @@ Runways:ZW01 JIAOHE 09-27:centerline
 Airports:ZW01:symbol
 Runways:ZW02 QIUCI 08-26:centerline
 Airports:ZW02:symbol
-Runways:ZWSH LAINING 08-26:centerline
+Runways:ZWSH 喀什/徕宁 KASHI/Laining 08-26:centerline
 Airports:ZWSH:symbol
-Runways:ZWTN KUNGANG 11L-29R:centerline
+Runways:ZWTN 和田/昆冈 HETIAN/Kungang 11L-29R:centerline
 Airports:ZWTN:symbol
-Runways:ZWWW DIWOPU 07-25:centerline
+Runways:ZWWW 乌鲁木齐/地窝堡 URUMQI/Diwopu 07-25:centerline
 Airports:ZWWW:symbol
 Runways:ZWYN YINING 06-24:centerline
 Airports:ZWYN:symbol
@@ -32,7 +32,12 @@ VORs:XKC:symbol
 VORs:YNN:symbol
 NDBs:L:symbol
 NDBs:X:symbol
+Fixes:BIKNO:symbol
 Fixes:LIKMI:symbol
+Fixes:MOVBI:symbol
+Fixes:OBDEG:symbol
+Fixes:LEKEP:symbol
+Fixes:ADMUX:symbol
 Fixes:ADPET:symbol
 Fixes:AGOXA:symbol
 Fixes:AKLAS:symbol
@@ -68,6 +73,7 @@ Fixes:IRPEP:symbol
 Fixes:ISBEB:symbol
 Fixes:KABDO:symbol
 Fixes:KAGSO:symbol
+Fixes:KAMUD:symbol
 Fixes:KANPI:symbol
 Fixes:KEXAB:symbol
 Fixes:LEDEM:symbol
@@ -75,6 +81,7 @@ Fixes:LESVI:symbol
 Fixes:LIMDO:symbol
 Fixes:LUPRO:symbol
 Fixes:MAGIV:symbol
+Fixes:MAGOD:symbol
 Fixes:MENOD:symbol
 Fixes:MIMAR:symbol
 Fixes:MULOR:symbol
@@ -101,6 +108,7 @@ Fixes:QIEMO:symbol
 Fixes:REDUB:symbol
 Fixes:RIMDU:symbol
 Fixes:RULAD:symbol
+Fixes:RUSDI:symbol
 Fixes:SADAN:symbol
 Fixes:SALMO:symbol
 Fixes:SARIN:symbol
@@ -108,6 +116,7 @@ Fixes:SUNPU:symbol
 Fixes:TAMOX:symbol
 Fixes:TAPUG:symbol
 Fixes:TEAST:symbol
+Fixes:TEBUS:symbol
 Fixes:TEPUT:symbol
 Fixes:UDOXU:symbol
 Fixes:UGPEL:symbol
@@ -123,18 +132,24 @@ High airways:A343:line
 High airways:A368:line
 High airways:A460:line
 High airways:A468:line
+High airways:A814:line
 High airways:B206:line
 High airways:B215:line
+High airways:B351:line
 High airways:G206:line
 High airways:G325:line
+High airways:G401:line
 High airways:G470:line
 High airways:G588:line
 High airways:H69:line
 High airways:H70:line
 High airways:H75:line
 High airways:H79:line
+High airways:L141:line
+High airways:L147:line
 High airways:L181:line
 High airways:L26:line
+High airways:L728:line
 High airways:L888:line
 High airways:M166:line
 High airways:M610:line
@@ -152,6 +167,8 @@ High airways:W189:line
 High airways:W190:line
 High airways:W191:line
 High airways:W192:line
+High airways:W620:line
+High airways:W621:line
 High airways:W66:line
 High airways:W99:line
 High airways:Y1:line

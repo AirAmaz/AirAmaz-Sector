@@ -1,4 +1,4 @@
-# AirAmaz OpenSource Sector
+# AirAmaz OpenSource Sector (Chinese mainland)
 The AirAmaz Sector project is dedicated to providing **free**, **open-source** EuroScope sectors to help flight simulation enthusiasts from around the world have a better virtual air traffic control experience.
 
 **If you have any good suggestions or feedback regarding this sector, feel free to report them on our GitHub issue page!**
@@ -41,8 +41,9 @@ To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscript
 - AirAmaz RenderPlugin(Closed source now, still incomplete) - [William He](https://github.com/fwilliamhe)
 
 ### Credits
-- TopSky Symbols from [UK-Sector-File](https://github.com/VATSIM-UK/UK-Sector-File)
+- TopSky Symbols from [uk-controller-pack](https://github.com/VATSIM-UK/uk-controller-pack)
 - ICAO_* files from 2313 [VATPRC](https://www.vatprc.net/) Sector
+- TopSky Cursors from [VATPRC](https://www.vatprc.net/)
 
 ### Contributors
 - [William He](https://github.com/fwilliamhe)

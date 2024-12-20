@@ -2,22 +2,22 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBYC YANHU 08-26:centerline
+Runways:ZBYC 运城/盐湖 YUNCHENG/Yanhu 08-26:centerline
 Airports:ZBYC:symbol
 Runways:ZL02 JIUQUAN 14-32:centerline
 Airports:ZL02:symbol
 Runways:ZL03 BATANG 10-28:centerline
 Airports:ZL03:symbol
-Runways:ZLDH MOGAO 08-26:centerline
+Runways:ZLDH 敦煌/莫高 DUNHUANG/Mogao 08-26:centerline
 Airports:ZLDH:symbol
-Runways:ZLIC HEDONG 03-21:centerline
+Runways:ZLIC 银川/河东 YINCHUAN/Hedong 03-21:centerline
 Airports:ZLIC:symbol
-Runways:ZLLL ZHONGCHUAN 18-36:centerline
+Runways:ZLLL 兰州/中川 LANZHOU/Zhongchuan 18-36:centerline
 Airports:ZLLL:symbol
-Runways:ZLXN CAOJIAPU 11-29:centerline
+Runways:ZLXN 西宁/曹家堡 XINING/Caojiapu 11-29:centerline
 Airports:ZLXN:symbol
-Runways:ZLXY XIANYANG 05L-23R:centerline
-Runways:ZLXY XIANYANG 05R-23L:centerline
+Runways:ZLXY 西安/咸阳 XI'AN/Xianyang 05L-23R:centerline
+Runways:ZLXY 西安/咸阳 XI'AN/Xianyang 05R-23L:centerline
 Airports:ZLXY:symbol
 VORs:DKO:symbol
 VORs:YCE:symbol
@@ -48,25 +48,37 @@ VORs:YHD:symbol
 VORs:YLX:symbol
 VORs:ZNX:symbol
 VORs:ZWX:symbol
+VORs:GYN:symbol
 NDBs:HO:symbol
 NDBs:OD:symbol
 NDBs:RA:symbol
 NDBs:ZS:symbol
 Fixes:APOGO:symbol
 Fixes:BIVAT:symbol
+Fixes:GUINS:symbol
 Fixes:IBUDO:symbol
+Fixes:IDSOT:symbol
 Fixes:IPNON:symbol
+Fixes:KEVOB:symbol
 Fixes:KIBIP:symbol
+Fixes:LAVOM:symbol
 Fixes:LEBOM:symbol
 Fixes:LINFN:symbol
 Fixes:MEXOS:symbol
+Fixes:NITID:symbol
 Fixes:OMDIS:symbol
+Fixes:OMKAK:symbol
 Fixes:PONAV:symbol
+Fixes:RIDMI:symbol
 Fixes:SAVPA:symbol
+Fixes:TESAN:symbol
 Fixes:TUTNA:symbol
 Fixes:UDIGU:symbol
 Fixes:UGOTU:symbol
+Fixes:UGPOR:symbol
+Fixes:VEXEB:symbol
 Fixes:VIKON:symbol
+Fixes:EMVIL:symbol
 Fixes:IGADA:symbol
 Fixes:LIMGI:symbol
 Fixes:OMLIX:symbol
@@ -186,13 +198,19 @@ Fixes:XOGAB:symbol
 Fixes:AGULU:symbol
 Fixes:AKVEP:symbol
 Fixes:DUBID:symbol
+Fixes:GOKEB:symbol
 Fixes:IDVEM:symbol
+Fixes:IGLEX:symbol
+Fixes:OBMIG:symbol
 Fixes:OLBAS:symbol
 Fixes:OMBON:symbol
 Fixes:OVRAL:symbol
+Fixes:PIMEL:symbol
+Fixes:SUBUL:symbol
 Fixes:ADMUX:symbol
 Fixes:BEVTA:symbol
 Fixes:MAGOD:symbol
+Fixes:NUKTI:symbol
 Fixes:RUSDI:symbol
 High airways:A573:line
 High airways:A596:line
@@ -238,6 +256,7 @@ High airways:W217:line
 High airways:W218:line
 High airways:W219:line
 High airways:W220:line
+High airways:W230:line
 High airways:W233:line
 High airways:W242:line
 High airways:W28:line

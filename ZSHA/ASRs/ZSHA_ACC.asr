@@ -2,72 +2,74 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZGOW CHAOSHAN 04-22:centerline
+Runways:ZGOW 揭阳/潮汕 JIEYANG/Chaoshan 04-22:centerline
 Airports:ZGOW:symbol
-Runways:ZSAM GAOQI 05-23:centerline
+Runways:ZSAM 厦门/高崎 XIAMEN/Gaoqi 05-23:centerline
 Airports:ZSAM:symbol
-Runways:ZSCG BENNIU 11-29:centerline
+Runways:ZSCG 常州/奔牛 CHANGZHOU/Benniu 11-29:centerline
 Airports:ZSCG:symbol
-Runways:ZSCN CHANGBEI 03-21:centerline
+Runways:ZSCN 南昌/昌北 NANCHANG/Changbei 03-21:centerline
 Airports:ZSCN:symbol
-Runways:ZSFZ CHANGLE 03-21:centerline
+Runways:ZSFZ 福州/长乐 FUZHOU/Changle 03-21:centerline
 Airports:ZSFZ:symbol
-Runways:ZSHC XIAOSHAN 06-24:centerline
-Runways:ZSHC XIAOSHAN 07-25:centerline
+Runways:ZSHC 杭州/萧山 HANGZHOU/Xiaoshan 06-24:centerline
+Runways:ZSHC 杭州/萧山 HANGZHOU/Xiaoshan 07-25:centerline
 Airports:ZSHC:symbol
-Runways:ZSJN YAOQIANG 01-19:centerline
+Runways:ZSJN 济南/遥墙 JINAN/Yaoqiang 01-19:centerline
 Airports:ZSJN:symbol
-Runways:ZSLG HUAGUOSHAN 03-21:centerline
+Runways:ZSLG 连云港/花果山 LIANYUNGANG/Huaguoshan 03-21:centerline
 Airports:ZSLG:symbol
-Runways:ZSLY QIYANG 01-19:centerline
+Runways:ZSLY 临沂/启阳 LINYI/Qiyang 01-19:centerline
 Airports:ZSLY:symbol
-Runways:ZSNB LISHE 13-31:centerline
+Runways:ZSNB 宁波/栎社 NINGBO/Lishe 13-31:centerline
 Airports:ZSNB:symbol
-Runways:ZSNJ LUKOU 06-24:centerline
-Runways:ZSNJ LUKOU 07-25:centerline
+Runways:ZSNJ 南京/禄口 NANJING/Lukou 06-24:centerline
+Runways:ZSNJ 南京/禄口 NANJING/Lukou 07-25:centerline
 Airports:ZSNJ:symbol
-Runways:ZSNT XINGDONG 18-36:centerline
+Runways:ZSNT 南通/兴东 NANTONG/Xingdong 18-36:centerline
 Airports:ZSNT:symbol
-Runways:ZSOF XINQIAO 15-33:centerline
+Runways:ZSOF 合肥/新桥 HEFEI/Xinqiao 15-33:centerline
 Airports:ZSOF:symbol
-Runways:ZSPD PUDONG 16L-34R:centerline
-Runways:ZSPD PUDONG 16R-34L:centerline
-Runways:ZSPD PUDONG 17L-35R:centerline
-Runways:ZSPD PUDONG 17R-35L:centerline
+Runways:ZSPD 上海/浦东 SHANGHAI/Pudong 16L-34R:centerline
+Runways:ZSPD 上海/浦东 SHANGHAI/Pudong 16R-34L:centerline
+Runways:ZSPD 上海/浦东 SHANGHAI/Pudong 17L-35R:centerline
+Runways:ZSPD 上海/浦东 SHANGHAI/Pudong 17R-35L:centerline
 Airports:ZSPD:symbol
-Runways:ZSQD JIAODONG 16-34:centerline
-Runways:ZSQD JIAODONG 17-35:centerline
+Runways:ZSQD 青岛/胶东 QINGDAO/Jiaodong 16-34:centerline
+Runways:ZSQD 青岛/胶东 QINGDAO/Jiaodong 17-35:centerline
 Airports:ZSQD:symbol
-Runways:ZSQZ JINJIANG 03-21:centerline
+Runways:ZSQZ 泉州/晋江 QUANZHOU/Jinjiang 03-21:centerline
 Airports:ZSQZ:symbol
-Runways:ZSSH LIANSHUI 04-22:centerline
+Runways:ZSSH 淮安/涟水 HUAIAN/Lianshui 04-22:centerline
 Airports:ZSSH:symbol
-Runways:ZSSS HONGQIAO 18L-36R:centerline
-Runways:ZSSS HONGQIAO 18R-36L:centerline
+Runways:ZSSS 上海/虹桥 SHANGHAI/Hongqiao 18L-36R:centerline
+Runways:ZSSS 上海/虹桥 SHANGHAI/Hongqiao 18R-36L:centerline
 Airports:ZSSS:symbol
-Runways:ZSTX TUNXI 13-31:centerline
+Runways:ZSTX 黄山/屯溪 HUANGSHAN/Tunxi 13-31:centerline
 Airports:ZSTX:symbol
-Runways:ZSWH DASHUIPO 03-21:centerline
+Runways:ZSWH 威海/大水泊 WEIHAI/Dashuipo 03-21:centerline
 Airports:ZSWH:symbol
-Runways:ZSWX SHUOFANG 03-21:centerline
+Runways:ZSWX 无锡/硕放 WUXI/Shuofang 03-21:centerline
 Airports:ZSWX:symbol
-Runways:ZSWZ LONGWAN 03-21:centerline
+Runways:ZSWZ 温州/龙湾 WENZHOU/Longwan 03-21:centerline
 Airports:ZSWZ:symbol
-Runways:ZSXZ GUANYIN 09-27:centerline
+Runways:ZSXZ 徐州/观音 XUZHOU/Guanyin 09-27:centerline
 Airports:ZSXZ:symbol
-Runways:ZSYA TAIZHOU 17-35:centerline
+Runways:ZSYA 扬州/泰州 YANGZHOU/Taizhou 17-35:centerline
 Airports:ZSYA:symbol
-Runways:ZSYN NANYANG 04-22:centerline
+Runways:ZSYN 盐城/南洋 YANCHENG/Nanyang 04-22:centerline
 Airports:ZSYN:symbol
-Runways:ZSYT PENGLAI 05-23:centerline
+Runways:ZSYT 烟台/蓬莱 YANTAI/Penglai 05-23:centerline
 Airports:ZSYT:symbol
-Runways:ZSYW YIWU 02-20:centerline
+Runways:ZSYW 义乌 YIWU/Yiwu 02-20:centerline
 Airports:ZSYW:symbol
-Runways:ZSZS PUTUOSHAN 18-36:centerline
+Runways:ZSZS 舟山/普陀山 ZHOUSHAN/Putuoshan 18-36:centerline
 Airports:ZSZS:symbol
 VORs:CSS:symbol
 VORs:JCS:symbol
+VORs:NNX:symbol
 VORs:SWA:symbol
+VORs:FYG:symbol
 VORs:AND:symbol
 VORs:CGT:symbol
 VORs:CZO:symbol
@@ -146,27 +148,41 @@ NDBs:PK:symbol
 NDBs:WY:symbol
 NDBs:YO:symbol
 NDBs:ZJ:symbol
+Fixes:ELDUT:symbol
 Fixes:EPGAM:symbol
 Fixes:GOTVA:symbol
 Fixes:KAMOM:symbol
+Fixes:PANKI:symbol
+Fixes:TUMLO:symbol
 Fixes:AVBEP:symbol
 Fixes:BEBEM:symbol
+Fixes:BEMAG:symbol
 Fixes:DABER:symbol
+Fixes:DOTMI:symbol
 Fixes:EGEDA:symbol
+Fixes:IDAXI:symbol
+Fixes:LAPUG:symbol
 Fixes:MASGU:symbol
 Fixes:NUVGA:symbol
 Fixes:ODOPI:symbol
+Fixes:OPUNI:symbol
 Fixes:OVTAN:symbol
 Fixes:OW565:symbol
 Fixes:OW566:symbol
 Fixes:OW567:symbol
+Fixes:SUMDO:symbol
 Fixes:VAVSO:symbol
 Fixes:VETIB:symbol
+Fixes:XEBUL:symbol
 Fixes:ADGOL:symbol
 Fixes:IKUBA:symbol
+Fixes:P254:symbol
+Fixes:UPNEM:symbol
+Fixes:URGEB:symbol
 Fixes:ABTUB:symbol
 Fixes:ABVIL:symbol
 Fixes:ADBAS:symbol
+Fixes:AGAVO:symbol
 Fixes:AGPUX:symbol
 Fixes:AKAMI:symbol
 Fixes:AKARA:symbol
@@ -189,6 +205,7 @@ Fixes:ANLUD:symbol
 Fixes:ANONU:symbol
 Fixes:ANQIG:symbol
 Fixes:APAKA:symbol
+Fixes:APITO:symbol
 Fixes:ATLED:symbol
 Fixes:ATLIX:symbol
 Fixes:ATRIP:symbol
@@ -283,6 +300,7 @@ Fixes:KAGVO:symbol
 Fixes:KAKIS:symbol
 Fixes:KAPGU:symbol
 Fixes:KARPI:symbol
+Fixes:KASKA:symbol
 Fixes:KIKEG:symbol
 Fixes:LAGAL:symbol
 Fixes:LAMEN:symbol
@@ -337,6 +355,7 @@ Fixes:OKALI:symbol
 Fixes:OKATO:symbol
 Fixes:OKTUG:symbol
 Fixes:OLDAX:symbol
+Fixes:OLDID:symbol
 Fixes:OLGAP:symbol
 Fixes:OLRED:symbol
 Fixes:OLRIS:symbol
@@ -409,6 +428,7 @@ Fixes:SS504:symbol
 Fixes:SS521:symbol
 Fixes:SSX32:symbol
 Fixes:SUBKU:symbol
+Fixes:SULEM:symbol
 Fixes:SUNBO:symbol
 Fixes:SUPAR:symbol
 Fixes:SURAK:symbol
@@ -419,6 +439,7 @@ Fixes:TEKAM:symbol
 Fixes:TEPAG:symbol
 Fixes:TESIG:symbol
 Fixes:TOGUG:symbol
+Fixes:TOLAK:symbol
 Fixes:TONIX:symbol
 Fixes:TOSAS:symbol
 Fixes:TULMU:symbol
@@ -453,9 +474,15 @@ Fixes:XIVID:symbol
 Fixes:XOGAX:symbol
 Fixes:XUTGU:symbol
 Fixes:XUVGI:symbol
+Fixes:BEBAN:symbol
+Fixes:DOBGA:symbol
 Fixes:NIXEP:symbol
+Fixes:ORIXA:symbol
 Fixes:OSVEN:symbol
+Fixes:POVAG:symbol
+Fixes:RUPID:symbol
 Fixes:SANKO:symbol
+Fixes:TANIB:symbol
 High airways:A326:line
 High airways:A470:line
 High airways:A588:line
@@ -473,10 +500,13 @@ High airways:G345:line
 High airways:G455:line
 High airways:G471:line
 High airways:G597:line
+High airways:L2:line
 High airways:M503:line
 High airways:R200:line
 High airways:R343:line
+High airways:R473:line
 High airways:R596:line
+High airways:V10:line
 High airways:V104:line
 High airways:V106:line
 High airways:V108:line
@@ -487,8 +517,10 @@ High airways:V140:line
 High airways:V141:line
 High airways:V142:line
 High airways:V143:line
+High airways:V15:line
 High airways:V16:line
 High airways:V17:line
+High airways:V18:line
 High airways:V2:line
 High airways:V27:line
 High airways:V3:line
@@ -499,10 +531,15 @@ High airways:V36:line
 High airways:V37:line
 High airways:V39:line
 High airways:V42:line
+High airways:V43:line
 High airways:V44:line
 High airways:V49:line
+High airways:V5:line
+High airways:V512:line
+High airways:V52:line
 High airways:V53:line
 High airways:V55:line
+High airways:V601:line
 High airways:V64:line
 High airways:V65:line
 High airways:V68:line
@@ -533,6 +570,7 @@ High airways:W123:line
 High airways:W125:line
 High airways:W126:line
 High airways:W127:line
+High airways:W128:line
 High airways:W13:line
 High airways:W131:line
 High airways:W132:line
@@ -561,10 +599,12 @@ High airways:W185:line
 High airways:W19:line
 High airways:W200:line
 High airways:W201:line
+High airways:W202:line
 High airways:W209:line
 High airways:W224:line
 High airways:W226:line
 High airways:W227:line
+High airways:W37:line
 High airways:W38:line
 High airways:W4:line
 High airways:W40:line
@@ -598,6 +638,9 @@ High airways:W568:line
 High airways:W569:line
 High airways:W570:line
 High airways:W571:line
+High airways:W574:line
+High airways:W575:line
+High airways:W577:line
 High airways:W578:line
 High airways:W579:line
 High airways:W58:line
@@ -611,10 +654,12 @@ High airways:W590:line
 High airways:W591:line
 High airways:W592:line
 High airways:W593:line
+High airways:W596:line
 High airways:W597:line
 High airways:W598:line
 High airways:W6:line
 High airways:W609:line
+High airways:W615:line
 High airways:W643:line
 High airways:W644:line
 High airways:W645:line
@@ -627,6 +672,11 @@ High airways:W67:line
 High airways:W73:line
 High airways:W8:line
 High airways:W95:line
+High airways:Y590:line
+High airways:Y644:line
+High airways:Y655:line
+High airways:Y697:line
+High airways:Z55:line
 Low airways:W2:line
 
 

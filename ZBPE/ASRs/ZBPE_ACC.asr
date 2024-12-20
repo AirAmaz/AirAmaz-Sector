@@ -2,38 +2,38 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBAA CAPITAL 01-19:centerline
-Runways:ZBAA CAPITAL 18L-36R:centerline
-Runways:ZBAA CAPITAL 18R-36L:centerline
+Runways:ZBAA 北京/首都 BEIJING/Capital 01-19:centerline
+Runways:ZBAA 北京/首都 BEIJING/Capital 18L-36R:centerline
+Runways:ZBAA 北京/首都 BEIJING/Capital 18R-36L:centerline
 Airports:ZBAA:symbol
-Runways:ZBAD DAXING 01L-19R:centerline
-Runways:ZBAD DAXING 11L-29R:centerline
-Runways:ZBAD DAXING 17L-35R:centerline
-Runways:ZBAD DAXING 17R-35L:centerline
+Runways:ZBAD 北京/大兴 BEIJING/Daxing 01L-19R:centerline
+Runways:ZBAD 北京/大兴 BEIJING/Daxing 11L-29R:centerline
+Runways:ZBAD 北京/大兴 BEIJING/Daxing 17L-35R:centerline
+Runways:ZBAD 北京/大兴 BEIJING/Daxing 17R-35L:centerline
 Airports:ZBAD:symbol
-Runways:ZBDS EJIN HORO 13-31:centerline
+Runways:ZBDS 鄂尔多斯/伊金霍洛 ORDOS/Ejin Horo 13-31:centerline
 Airports:ZBDS:symbol
-Runways:ZBDT YUNGANG 14-32:centerline
+Runways:ZBDT 大同/云冈 DATONG/Yungang 14-32:centerline
 Airports:ZBDT:symbol
-Runways:ZBHH BAITA 08-26:centerline
+Runways:ZBHH 呼和浩特/白塔 HOHHOT/Baita 08-26:centerline
 Airports:ZBHH:symbol
-Runways:ZBOW DONGHE 13-31:centerline
+Runways:ZBOW 包头/东河 BAOTOU/Donghe 13-31:centerline
 Airports:ZBOW:symbol
-Runways:ZBSJ ZHENGDING 15-33:centerline
+Runways:ZBSJ 石家庄/正定 SHIJIAZHUANG/Zhengding 15-33:centerline
 Airports:ZBSJ:symbol
-Runways:ZBTJ BINHAI 16L-34R:centerline
-Runways:ZBTJ BINHAI 16R-34L:centerline
+Runways:ZBTJ 天津/滨海 TIANJIN/Binhai 16L-34R:centerline
+Runways:ZBTJ 天津/滨海 TIANJIN/Binhai 16R-34L:centerline
 Airports:ZBTJ:symbol
-Runways:ZBYC YANHU 08-26:centerline
+Runways:ZBYC 运城/盐湖 YUNCHENG/Yanhu 08-26:centerline
 Airports:ZBYC:symbol
-Runways:ZBYN WUSU 13-31:centerline
+Runways:ZBYN 太原/武宿 TAIYUAN/Wusu 13-31:centerline
 Airports:ZBYN:symbol
-Runways:ZHCC XINZHENG 12L-30R:centerline
-Runways:ZHCC XINZHENG 12R-30L:centerline
+Runways:ZHCC 郑州/新郑 ZHENGZHOU/Xinzheng 12L-30R:centerline
+Runways:ZHCC 郑州/新郑 ZHENGZHOU/Xinzheng 12R-30L:centerline
 Airports:ZHCC:symbol
-Runways:ZSJN YAOQIANG 01-19:centerline
+Runways:ZSJN 济南/遥墙 JINAN/Yaoqiang 01-19:centerline
 Airports:ZSJN:symbol
-Runways:ZSLY QIYANG 01-19:centerline
+Runways:ZSLY 临沂/启阳 LINYI/Qiyang 01-19:centerline
 Airports:ZSLY:symbol
 VORs:BAV:symbol
 VORs:BJZ:symbol
@@ -66,6 +66,8 @@ VORs:FYG:symbol
 VORs:LYA:symbol
 VORs:ZHO:symbol
 VORs:DYN:symbol
+VORs:JDG:symbol
+VORs:JDW:symbol
 VORs:LNY:symbol
 VORs:WFG:symbol
 VORs:YQG:symbol
@@ -108,6 +110,7 @@ Fixes:ANOBI:symbol
 Fixes:ANOLO:symbol
 Fixes:ANPIG:symbol
 Fixes:APEXU:symbol
+Fixes:APOGO:symbol
 Fixes:AREKU:symbol
 Fixes:ASAVA:symbol
 Fixes:ASILA:symbol
@@ -212,6 +215,7 @@ Fixes:MUGLO:symbol
 Fixes:MUGUT:symbol
 Fixes:NIRUG:symbol
 Fixes:NITID:symbol
+Fixes:NIXAL:symbol
 Fixes:NOKAK:symbol
 Fixes:NOMOV:symbol
 Fixes:NUDKU:symbol
@@ -313,7 +317,9 @@ Fixes:DOSKU:symbol
 Fixes:DUBAG:symbol
 Fixes:DUDBI:symbol
 Fixes:EKORO:symbol
+Fixes:ENLAB:symbol
 Fixes:EPGOS:symbol
+Fixes:ESMEB:symbol
 Fixes:GUKNA:symbol
 Fixes:GUTOV:symbol
 Fixes:GUTUS:symbol
@@ -328,14 +334,17 @@ Fixes:LENPO:symbol
 Fixes:MILOM:symbol
 Fixes:NOPIN:symbol
 Fixes:NUNGA:symbol
+Fixes:OBLIK:symbol
 Fixes:OBMEP:symbol
 Fixes:OGOVI:symbol
 Fixes:OKTOX:symbol
+Fixes:OMLIX:symbol
 Fixes:ORODO:symbol
 Fixes:P242:symbol
 Fixes:P403:symbol
 Fixes:PAKMA:symbol
 Fixes:PASGU:symbol
+Fixes:PATVU:symbol
 Fixes:PUBOV:symbol
 Fixes:REVKU:symbol
 Fixes:RUMGU:symbol
@@ -348,21 +357,29 @@ Fixes:UNTEL:symbol
 Fixes:UPNEM:symbol
 Fixes:URGIN:symbol
 Fixes:VADMO:symbol
+Fixes:VARDU:symbol
 Fixes:VENUT:symbol
 Fixes:VETIP:symbol
 Fixes:VINIG:symbol
 Fixes:AVNOT:symbol
 Fixes:MAKIP:symbol
 Fixes:MAPMU:symbol
+Fixes:MUDPO:symbol
+Fixes:MULOB:symbol
+Fixes:OLDAB:symbol
+Fixes:OLTIT:symbol
 Fixes:OTBUL:symbol
 Fixes:SANID:symbol
 Fixes:ABTUB:symbol
+Fixes:AVPEP:symbol
 Fixes:BASOV:symbol
+Fixes:BUGPA:symbol
 Fixes:DALIM:symbol
 Fixes:DOVIV:symbol
 Fixes:GOLAL:symbol
 Fixes:GULEK:symbol
 Fixes:GUSIR:symbol
+Fixes:GUTVO:symbol
 Fixes:LEDOV:symbol
 Fixes:METOG:symbol
 Fixes:MUMUN:symbol
@@ -372,8 +389,15 @@ Fixes:OLRED:symbol
 Fixes:OVLEM:symbol
 Fixes:OVTIT:symbol
 Fixes:RAXEV:symbol
+Fixes:REPOL:symbol
+Fixes:UDINO:symbol
+Fixes:UPDAD:symbol
 Fixes:ANRAT:symbol
 Fixes:BEBAN:symbol
+Fixes:IGIVU:symbol
+Fixes:ISGAP:symbol
+Fixes:KAKAT:symbol
+Fixes:LOTGO:symbol
 Fixes:UGASA:symbol
 High airways:A326:line
 High airways:A461:line
@@ -402,9 +426,11 @@ High airways:V15:line
 High airways:V30:line
 High airways:V31:line
 High airways:V33:line
+High airways:V42:line
 High airways:V47:line
 High airways:V48:line
 High airways:V54:line
+High airways:V674:line
 High airways:V78:line
 High airways:V79:line
 High airways:V80:line
@@ -433,11 +459,13 @@ High airways:W200:line
 High airways:W201:line
 High airways:W210:line
 High airways:W217:line
+High airways:W218:line
 High airways:W220:line
 High airways:W243:line
 High airways:W244:line
 High airways:W247:line
 High airways:W28:line
+High airways:W31:line
 High airways:W32:line
 High airways:W33:line
 High airways:W34:line
@@ -481,6 +509,7 @@ High airways:W639:line
 High airways:W64:line
 High airways:W640:line
 High airways:W65:line
+High airways:W651:line
 High airways:W66:line
 High airways:W661:line
 High airways:W662:line
@@ -502,6 +531,11 @@ High airways:Y520:line
 High airways:Y618:line
 High airways:Y651:line
 High airways:Y655:line
+High airways:Y683:line
+High airways:Y721:line
+High airways:Y746:line
+High airways:Y765:line
+High airways:Z156:line
 
 
 SHOWC:1

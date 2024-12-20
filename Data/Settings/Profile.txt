@@ -2,981 +2,981 @@ PROFILE
 PROFILE:*_OBS:20:2
 ATIS2:I'm observing
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:PRC_FSS:1500:7
 ATIS2:Beijing Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAA_CTR:600:6
 ATIS2:Beijing Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBHH_CTR:600:6
 ATIS2:Hohhot Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBPE_CTR:600:6
 ATIS2:Beijing Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGGG_CTR:600:6
 ATIS2:Guangzhou Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGHA_CTR:600:6
 ATIS2:Changsha Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGNN_CTR:600:6
 ATIS2:Nanning Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGZU_CTR:600:6
 ATIS2:Guangzhou Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHCC_CTR:600:6
 ATIS2:Zhengzhou Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHHH_CTR:600:6
 ATIS2:Wuhan Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHWH_CTR:600:6
 ATIS2:Wuhan Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJSA_CTR:600:6
 ATIS2:Sanya Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLHW_CTR:600:6
 ATIS2:Lanzhou Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLLL_CTR:600:6
 ATIS2:Lanzhou Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXY_CTR:600:6
 ATIS2:Xi'an Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPKM_CTR:600:6
 ATIS2:Kunming Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPPP_CTR:600:6
 ATIS2:Kunming Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSAM_CTR:600:6
 ATIS2:Xiamen Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCN_CTR:600:6
 ATIS2:Nanchang Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSHA_CTR:600:6
 ATIS2:Shanghai Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSJN_CTR:600:6
 ATIS2:Ji'nan Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSOF_CTR:600:6
 ATIS2:Hefei Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQD_CTR:600:6
 ATIS2:Qingdao Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSS_CTR:600:6
 ATIS2:Shanghai Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUGY_CTR:600:6
 ATIS2:Guiyang Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZULS_CTR:600:6
 ATIS2:Lhasa Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUUU_CTR:600:6
 ATIS2:Chengdu Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWUQ_CTR:600:6
 ATIS2:Urumqi Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYHB_CTR:600:6
 ATIS2:Harbin Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYSH_CTR:600:6
 ATIS2:Shenyang Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTL_CTR:600:6
 ATIS2:Dalian Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTX_CTR:600:6
 ATIS2:Shenyang Control
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAA_APP:150:5
 ATIS2:Beijing Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAA_DEL:20:2
 ATIS2:Beijing Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAA_GND:20:3
 ATIS2:Beijing Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAA_TWR:50:4
 ATIS2:Beijing Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAD_APP:150:5
 ATIS2:Daxing Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAD_DEL:20:2
 ATIS2:Daxing Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAD_GND:20:3
 ATIS2:Daxing Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBAD_TWR:50:4
 ATIS2:Daxing Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBDS_TWR:50:4
 ATIS2:Ordos Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBHH_APP:150:5
 ATIS2:Hohhot Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBHH_GND:20:3
 ATIS2:Hohhot Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBHH_TWR:50:4
 ATIS2:Hohhot Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBLA_GND:20:3
 ATIS2:Hailar Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBLA_TWR:50:4
 ATIS2:Hailar Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBMZ_TWR:50:4
 ATIS2:Manzhouli Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBSJ_APP:150:5
 ATIS2:Shijiazhuang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBSJ_DEL:20:2
 ATIS2:Shijiazhuang Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBSJ_GND:20:3
 ATIS2:Shijiazhuang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBSJ_TWR:50:4
 ATIS2:Shijiazhuang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBTJ_APP:150:5
 ATIS2:Tianjin Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBTJ_DEL:20:2
 ATIS2:Tianjin Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBTJ_GND:20:3
 ATIS2:Tianjin Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBTJ_TWR:50:4
 ATIS2:Tianjin Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBYC_TWR:50:4
 ATIS2:Yuncheng Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBYN_APP:150:5
 ATIS2:Taiyuan Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBYN_DEL:20:2
 ATIS2:Taiyuan Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBYN_GND:20:3
 ATIS2:Taiyuan Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBYN_TWR:50:4
 ATIS2:Taiyuan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGDY_TWR:50:4
 ATIS2:Zhangjiajie Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGGG_APP:150:5
 ATIS2:Guangzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGGG_DEL:20:2
 ATIS2:Baiyun Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGGG_GND:20:3
 ATIS2:Baiyun Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGGG_TWR:50:4
 ATIS2:Baiyun Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGHA_APP:150:5
 ATIS2:Changsha Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGHA_DEL:20:2
 ATIS2:Huanghua Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGHA_GND:20:3
 ATIS2:Huanghua Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGHA_TWR:50:4
 ATIS2:Huanghua Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGKL_APP:150:5
 ATIS2:Guilin Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGKL_GND:20:3
 ATIS2:Liangjiang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGKL_TWR:50:4
 ATIS2:Liangjiang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGNN_APP:150:5
 ATIS2:Nanning Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGNN_GND:20:3
 ATIS2:Nanning Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGNN_TWR:50:4
 ATIS2:Nanning Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGOW_APP:150:5
 ATIS2:Shantou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGOW_GND:20:3
 ATIS2:Chaoshan Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGOW_TWR:50:4
 ATIS2:Chaoshan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGSZ_DEL:20:2
 ATIS2:Bao'an Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGSZ_GND:20:3
 ATIS2:Bao'an Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGJD_APP:150:5
 ATIS2:Zhuhai Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZGSZ_TWR:50:4
 ATIS2:Bao'an Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHCC_APP:150:5
 ATIS2:Zhengzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHCC_DEL:20:2
 ATIS2:Zhengzhou Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHCC_GND:20:3
 ATIS2:Zhengzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHCC_TWR:50:4
 ATIS2:Zhengzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHEC_APP:150:5
 ATIS2:Ezhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHEC_DEL:20:2
 ATIS2:Huahu Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHEC_GND:20:3
 ATIS2:Huahu Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHEC_TWR:50:4
 ATIS2:Huahu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHHH_APP:150:5
 ATIS2:Wuhan Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHHH_DEL:20:2
 ATIS2:Wuhan Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHHH_GND:20:3
 ATIS2:Wuhan Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHHH_TWR:50:4
 ATIS2:Wuhan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHXF_TWR:50:4
 ATIS2:Xiangyang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZHYC_TWR:50:4
 ATIS2:Yichang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJHK_APP:150:5
 ATIS2:Haikou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJHK_DEL:20:2
 ATIS2:Haikou Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJHK_GND:20:3
 ATIS2:Haikou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJHK_TWR:50:4
 ATIS2:Haikou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJQH_TWR:50:4
 ATIS2:Boao Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJSY_APP:150:5
 ATIS2:Sanya Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJSY_GND:20:3
 ATIS2:Fenghuang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZJSY_TWR:50:4
 ATIS2:Fenghuang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZL02_TWR:50:4
 ATIS2:Jiayuguan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZL03_TWR:50:4
 ATIS2:Yushu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLDH_TWR:50:4
 ATIS2:Dunhuang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLIC_APP:150:5
 ATIS2:Yinchuan Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLIC_GND:20:3
 ATIS2:Yinchuan Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLIC_TWR:50:4
 ATIS2:Yinchuan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLLL_APP:150:5
 ATIS2:Lanzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLLL_DEL:20:2
 ATIS2:Lanzhou Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLLL_GND:20:3
 ATIS2:Lanzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLLL_TWR:50:4
 ATIS2:Lanzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXN_APP:150:5
 ATIS2:Xining Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXN_GND:20:3
 ATIS2:Xining Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXN_TWR:50:4
 ATIS2:Xining Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXY_APP:150:5
 ATIS2:Xi'an Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXY_DEL:20:2
 ATIS2:Xianyang Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXY_GND:20:3
 ATIS2:Xianyang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZLXY_TWR:50:4
 ATIS2:Xianyang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPJH_APP:150:5
 ATIS2:Banna Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPJH_GND:20:3
 ATIS2:Banna Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPJH_TWR:50:4
 ATIS2:Banna Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPLJ_APP:150:5
 ATIS2:Lijiang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPLJ_GND:20:3
 ATIS2:Lijiang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPLJ_TWR:50:4
 ATIS2:Lijiang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPMS_TWR:50:4
 ATIS2:Mangshi Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPPP_APP:150:5
 ATIS2:Kunming Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPPP_DEL:20:2
 ATIS2:Kunming Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPPP_GND:20:3
 ATIS2:Kunming Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZPPP_TWR:50:4
 ATIS2:Kunming Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSAM_APP:150:5
 ATIS2:Xiamen Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSAM_DEL:20:2
 ATIS2:Xiamen Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSAM_GND:20:3
 ATIS2:Xiamen Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSAM_TWR:50:4
 ATIS2:Xiamen Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCG_GND:20:3
 ATIS2:Changzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCG_TWR:50:4
 ATIS2:Changzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCN_APP:150:5
 ATIS2:Nanchang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCN_GND:20:3
 ATIS2:Nanchang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSCN_TWR:50:4
 ATIS2:Nanchang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSFZ_APP:150:5
 ATIS2:Fuzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSFZ_GND:20:3
 ATIS2:Fuzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSFZ_TWR:50:4
 ATIS2:Fuzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSHC_APP:150:5
 ATIS2:Hangzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSHC_DEL:20:2
 ATIS2:Hangzhou Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSHC_GND:20:3
 ATIS2:Hangzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSHC_TWR:50:4
 ATIS2:Hangzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSJN_APP:150:5
 ATIS2:Ji'nan Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSJN_DEL:20:2
 ATIS2:Ji'nan Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSJN_GND:20:3
 ATIS2:Ji'nan Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSJN_TWR:50:4
 ATIS2:Ji'nan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSLG_TWR:50:4
 ATIS2:Lianyungang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSLY_TWR:50:4
 ATIS2:Linyi Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNB_APP:150:5
 ATIS2:Ningbo Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNB_DEL:20:2
 ATIS2:Ningbo Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNB_TWR:50:4
 ATIS2:Ningbo Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNJ_APP:150:5
 ATIS2:Nanjing Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNJ_DEL:20:2
 ATIS2:Nanjing Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNJ_GND:20:3
 ATIS2:Nanjing Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNJ_TWR:50:4
 ATIS2:Nanjing Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSNT_TWR:50:4
 ATIS2:Nantong Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSOF_APP:150:5
 ATIS2:Hefei Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSOF_GND:20:3
 ATIS2:Hefei Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSOF_TWR:50:4
 ATIS2:Hefei Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSPD_DEL:20:2
 ATIS2:Pudong Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSPD_GND:20:3
 ATIS2:Pudong Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSPD_TWR:50:4
 ATIS2:Pudong Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQD_APP:150:5
 ATIS2:Qingdao Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQD_DEL:20:2
 ATIS2:Qingdao Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQD_GND:20:3
 ATIS2:Qingdao Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQD_TWR:50:4
 ATIS2:Qingdao Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQZ_APP:150:5
 ATIS2:Jinjiang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQZ_GND:20:3
 ATIS2:Jinjiang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSQZ_TWR:50:4
 ATIS2:Jinjiang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSH_TWR:50:4
 ATIS2:Huaian Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSS_APP:150:5
 ATIS2:Shanghai Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSS_DEL:20:2
 ATIS2:Hongqiao Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSS_GND:20:3
 ATIS2:Hongqiao Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSSS_TWR:50:4
 ATIS2:Hongqiao Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSTX_TWR:50:4
 ATIS2:Huangshan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWH_TWR:50:4
 ATIS2:Weihai Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWX_APP:150:5
 ATIS2:Wuxi Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWX_GND:20:3
 ATIS2:Wuxi Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWX_TWR:50:4
 ATIS2:Wuxi Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWZ_APP:150:5
 ATIS2:Wenzhou Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWZ_GND:20:3
 ATIS2:Wenzhou Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSWZ_TWR:50:4
 ATIS2:Wenzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSXZ_TWR:50:4
 ATIS2:Xuzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYA_TWR:50:4
 ATIS2:Yangzhou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYN_TWR:50:4
 ATIS2:Yancheng Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYT_APP:150:5
 ATIS2:Yantai Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYT_GND:20:3
 ATIS2:Yantai Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYT_TWR:50:4
 ATIS2:Yantai Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSYW_TWR:50:4
 ATIS2:Yiwu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZSZS_TWR:50:4
 ATIS2:Zhoushan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUCK_APP:150:5
 ATIS2:Chongqing Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUCK_DEL:20:2
 ATIS2:Chongqing Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUCK_GND:20:3
 ATIS2:Chongqing Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUCK_TWR:50:4
 ATIS2:Chongqing Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUGY_APP:150:5
 ATIS2:Guiyang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUGY_DEL:20:2
 ATIS2:Guiyang Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUGY_GND:20:3
 ATIS2:Guiyang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUGY_TWR:50:4
 ATIS2:Guiyang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZULS_APP:150:5
 ATIS2:Lhasa Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZULS_GND:20:3
 ATIS2:Lhasa Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZULS_TWR:50:4
 ATIS2:Lhasa Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUTF_DEL:20:2
 ATIS2:Tianfu Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUTF_GND:20:3
 ATIS2:Tianfu Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUTF_TWR:50:4
 ATIS2:Tianfu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUUU_APP:150:5
 ATIS2:Chengdu Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUUU_DEL:20:2
 ATIS2:Shuangliu Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUUU_GND:20:3
 ATIS2:Shuangliu Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUUU_TWR:50:4
 ATIS2:Shuangliu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUXC_GND:20:3
 ATIS2:Xichang Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZUXC_TWR:50:4
 ATIS2:Xichang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWSH_TWR:50:4
 ATIS2:Kashi Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWTN_TWR:50:4
 ATIS2:Hotan Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWWW_APP:150:5
 ATIS2:Urumqi Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWWW_DEL:20:2
 ATIS2:Urumqi Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWWW_GND:20:3
 ATIS2:Diwopu Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZWWW_TWR:50:4
 ATIS2:Diwopu Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYCC_APP:150:5
 ATIS2:Changchun Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYCC_DEL:20:2
 ATIS2:Longjia Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYCC_GND:20:3
 ATIS2:Changchun Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYCC_TWR:50:4
 ATIS2:Longjia Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYHB_APP:150:5
 ATIS2:Harbin Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYHB_DEL:20:2
 ATIS2:Harbin Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYHB_GND:20:3
 ATIS2:Harbin Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYHB_TWR:50:4
 ATIS2:Harbin Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYJM_TWR:50:4
 ATIS2:Jiamusi Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYMD_TWR:50:4
 ATIS2:Mudanjiang Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYQQ_TWR:50:4
 ATIS2:Qiqihaer Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTL_APP:150:5
 ATIS2:Dalian Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTL_DEL:20:2
 ATIS2:Dalian Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTL_GND:20:3
 ATIS2:Dalian Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTL_TWR:50:4
 ATIS2:Dalian Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTX_APP:150:5
 ATIS2:Shenyang Approach
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTX_DEL:20:2
 ATIS2:Taoxian Delivery
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTX_GND:20:3
 ATIS2:Taoxian Ground
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYTX_TWR:50:4
 ATIS2:Taoxian Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZYYJ_TWR:50:4
 ATIS2:Yanji Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBDT_TWR:50:4
 ATIS2:Datong Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 PROFILE:ZBOW_TWR:50:4
 ATIS2:Baotou Tower
 ATIS3:
-ATIS4:sector compiled by AirAmaz compiler v1.2.0
+ATIS4:sector compiled by AirAmaz compiler v2.0.0
 END

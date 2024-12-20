@@ -2,33 +2,33 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZGDY HEHUA 08-26:centerline
+Runways:ZGDY 张家界/荷花 ZHANGJIAJIE/Hehua 08-26:centerline
 Airports:ZGDY:symbol
-Runways:ZGGG BAIYUN 01-19:centerline
-Runways:ZGGG BAIYUN 02L-20R:centerline
-Runways:ZGGG BAIYUN 02R-20L:centerline
+Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 01-19:centerline
+Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 02L-20R:centerline
+Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 02R-20L:centerline
 Airports:ZGGG:symbol
-Runways:ZGHA HUANGHUA 18L-36R:centerline
-Runways:ZGHA HUANGHUA 18R-36L:centerline
+Runways:ZGHA 长沙/黄花 CHANGSHA/Huanghua 18L-36R:centerline
+Runways:ZGHA 长沙/黄花 CHANGSHA/Huanghua 18R-36L:centerline
 Airports:ZGHA:symbol
-Runways:ZGKL LIANGJIANG 01-19:centerline
+Runways:ZGKL 桂林/两江 GUILIN/Liangjiang 01-19:centerline
 Airports:ZGKL:symbol
-Runways:ZGNN WUXU 05-23:centerline
+Runways:ZGNN 南宁/吴圩 NANNING/Wuxu 05-23:centerline
 Airports:ZGNN:symbol
-Runways:ZGOW CHAOSHAN 04-22:centerline
+Runways:ZGOW 揭阳/潮汕 JIEYANG/Chaoshan 04-22:centerline
 Airports:ZGOW:symbol
-Runways:ZGSZ BAOAN 15-33:centerline
-Runways:ZGSZ BAOAN 16-34:centerline
+Runways:ZGSZ 深圳/宝安 SHENZHEN/Baoan 15-33:centerline
+Runways:ZGSZ 深圳/宝安 SHENZHEN/Baoan 16-34:centerline
 Airports:ZGSZ:symbol
 Runways:ZHEC HUAHU 01L-19R:centerline
 Runways:ZHEC HUAHU 01R-19L:centerline
 Airports:ZHEC:symbol
-Runways:ZHHH TIANHE 04L-22R:centerline
-Runways:ZHHH TIANHE 04R-22L:centerline
+Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04L-22R:centerline
+Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04R-22L:centerline
 Airports:ZHHH:symbol
 Runways:ZHXF LIUJI 01-19:centerline
 Airports:ZHXF:symbol
-Runways:ZHYC SANXIA 14-32:centerline
+Runways:ZHYC 宜昌/三峡 YICHANG/Sanxia 14-32:centerline
 Airports:ZHYC:symbol
 VORs:BHY:symbol
 VORs:BSE:symbol
@@ -70,6 +70,7 @@ VORs:DJZ:symbol
 VORs:DSY:symbol
 VORs:DXY:symbol
 VORs:ENH:symbol
+VORs:FYG:symbol
 VORs:HOK:symbol
 VORs:KGF:symbol
 VORs:LKO:symbol
@@ -80,6 +81,7 @@ VORs:XGD:symbol
 VORs:XSH:symbol
 VORs:YIH:symbol
 VORs:PLT:symbol
+VORs:TRN:symbol
 NDBs:CD:symbol
 NDBs:FO:symbol
 NDBs:GJ:symbol
@@ -98,6 +100,7 @@ NDBs:W:symbol
 NDBs:Y:symbol
 NDBs:ZK:symbol
 NDBs:HG:symbol
+NDBs:ML:symbol
 NDBs:NO:symbol
 NDBs:VL:symbol
 Fixes:ABTUD:symbol
@@ -135,6 +138,7 @@ Fixes:DABER:symbol
 Fixes:DAKOR:symbol
 Fixes:DBDNG:symbol
 Fixes:DOPNI:symbol
+Fixes:DOTMI:symbol
 Fixes:DUDIT:symbol
 Fixes:EGEDA:symbol
 Fixes:ELKAL:symbol
@@ -172,8 +176,10 @@ Fixes:KALMU:symbol
 Fixes:KEVAR:symbol
 Fixes:KIBAS:symbol
 Fixes:LAGEX:symbol
+Fixes:LANDA:symbol
 Fixes:LATOP:symbol
 Fixes:LENAD:symbol
+Fixes:LIDLU:symbol
 Fixes:LIPNO:symbol
 Fixes:LOVTA:symbol
 Fixes:LUMKO:symbol
@@ -216,6 +222,7 @@ Fixes:OSIKA:symbol
 Fixes:OSNOV:symbol
 Fixes:OVGOT:symbol
 Fixes:OVLUG:symbol
+Fixes:OVTAN:symbol
 Fixes:OVTIX:symbol
 Fixes:OW565:symbol
 Fixes:OW566:symbol
@@ -231,6 +238,7 @@ Fixes:PUNIR:symbol
 Fixes:REBIS:symbol
 Fixes:REKSO:symbol
 Fixes:RIKMO:symbol
+Fixes:ROMEO:symbol
 Fixes:RUKLI:symbol
 Fixes:RUSES:symbol
 Fixes:SALIV:symbol
@@ -238,9 +246,13 @@ Fixes:SANIP:symbol
 Fixes:SAREX:symbol
 Fixes:SARUG:symbol
 Fixes:SEBMO:symbol
+Fixes:SIERA:symbol
+Fixes:SIKOU:symbol
 Fixes:SULAS:symbol
 Fixes:SUMDO:symbol
 Fixes:SUMIB:symbol
+Fixes:TAMOT:symbol
+Fixes:TEBAK:symbol
 Fixes:TEPID:symbol
 Fixes:TESIL:symbol
 Fixes:TOMUD:symbol
@@ -301,6 +313,7 @@ Fixes:IDNUS:symbol
 Fixes:IDPOG:symbol
 Fixes:IGEDU:symbol
 Fixes:IGITA:symbol
+Fixes:IKUBA:symbol
 Fixes:KAKSU:symbol
 Fixes:MEGOB:symbol
 Fixes:NIVUV:symbol
@@ -318,9 +331,11 @@ Fixes:P254:symbol
 Fixes:P346:symbol
 Fixes:P38:symbol
 Fixes:P402:symbol
+Fixes:P403:symbol
 Fixes:P75:symbol
 Fixes:POVUN:symbol
 Fixes:REPUV:symbol
+Fixes:REVKU:symbol
 Fixes:RUXIL:symbol
 Fixes:SAGUD:symbol
 Fixes:TIKME:symbol
@@ -333,12 +348,21 @@ Fixes:URGEB:symbol
 Fixes:VARDU:symbol
 Fixes:VEXAN:symbol
 Fixes:VIBUB:symbol
+Fixes:AGTEL:symbol
+Fixes:DOMGO:symbol
+Fixes:RUNEG:symbol
 Fixes:SAMAS:symbol
+Fixes:DALEP:symbol
 Fixes:IKATA:symbol
+Fixes:IRNOL:symbol
 Fixes:JINGN:symbol
 Fixes:LEKUV:symbol
+Fixes:MIDOX:symbol
 Fixes:PANBO:symbol
+Fixes:PATVO:symbol
 Fixes:SAPUT:symbol
+Fixes:TULMU:symbol
+Fixes:MUGNU:symbol
 Fixes:PONEP:symbol
 Fixes:TOSIM:symbol
 High airways:A202:line
@@ -346,6 +370,7 @@ High airways:A461:line
 High airways:A470:line
 High airways:A581:line
 High airways:A599:line
+High airways:B208:line
 High airways:B213:line
 High airways:B330:line
 High airways:G221:line
@@ -353,13 +378,17 @@ High airways:G471:line
 High airways:G586:line
 High airways:GYA01:line
 High airways:GYA03:line
+High airways:H48:line
 High airways:H76:line
+High airways:J101:line
 High airways:J103:line
+High airways:J104:line
 High airways:R200:line
 High airways:R339:line
 High airways:R343:line
 High airways:R473:line
 High airways:R474:line
+High airways:V10:line
 High airways:V106:line
 High airways:V107:line
 High airways:V108:line
@@ -380,15 +409,23 @@ High airways:V35:line
 High airways:V36:line
 High airways:V37:line
 High airways:V38:line
+High airways:V41:line
 High airways:V5:line
+High airways:V51:line
+High airways:V512:line
 High airways:V52:line
+High airways:V571:line
+High airways:V601:line
+High airways:V65:line
 High airways:V66:line
+High airways:V78:line
 High airways:V86:line
 High airways:V87:line
 High airways:V88:line
 High airways:W102:line
 High airways:W105:line
 High airways:W118:line
+High airways:W128:line
 High airways:W129:line
 High airways:W130:line
 High airways:W138:line
@@ -412,6 +449,7 @@ High airways:W208:line
 High airways:W21:line
 High airways:W22:line
 High airways:W222:line
+High airways:W223:line
 High airways:W226:line
 High airways:W227:line
 High airways:W23:line
@@ -437,6 +475,8 @@ High airways:W552:line
 High airways:W553:line
 High airways:W56:line
 High airways:W563:line
+High airways:W586:line
+High airways:W596:line
 High airways:W597:line
 High airways:W598:line
 High airways:W6:line

@@ -2,20 +2,21 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZHCC XINZHENG 12L-30R:centerline
-Runways:ZHCC XINZHENG 12R-30L:centerline
+Runways:ZHCC 郑州/新郑 ZHENGZHOU/Xinzheng 12L-30R:centerline
+Runways:ZHCC 郑州/新郑 ZHENGZHOU/Xinzheng 12R-30L:centerline
 Airports:ZHCC:symbol
 Runways:ZHEC HUAHU 01L-19R:centerline
 Runways:ZHEC HUAHU 01R-19L:centerline
 Airports:ZHEC:symbol
-Runways:ZHHH TIANHE 04L-22R:centerline
-Runways:ZHHH TIANHE 04R-22L:centerline
+Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04L-22R:centerline
+Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04R-22L:centerline
 Airports:ZHHH:symbol
 Runways:ZHXF LIUJI 01-19:centerline
 Airports:ZHXF:symbol
-Runways:ZHYC SANXIA 14-32:centerline
+Runways:ZHYC 宜昌/三峡 YICHANG/Sanxia 14-32:centerline
 Airports:ZHYC:symbol
 VORs:WXI:symbol
+VORs:LIN:symbol
 VORs:CGO:symbol
 VORs:DCD:symbol
 VORs:DHB:symbol
@@ -43,7 +44,16 @@ NDBs:HG:symbol
 NDBs:ML:symbol
 NDBs:NO:symbol
 NDBs:VL:symbol
+Fixes:ELDUT:symbol
 Fixes:PADNO:symbol
+Fixes:URBIL:symbol
+Fixes:DAKOR:symbol
+Fixes:GUDRO:symbol
+Fixes:GUSIV:symbol
+Fixes:HA310:symbol
+Fixes:HA350:symbol
+Fixes:IGPAR:symbol
+Fixes:KALMU:symbol
 Fixes:OMGIB:symbol
 Fixes:AGSOS:symbol
 Fixes:AKOMA:symbol
@@ -54,6 +64,7 @@ Fixes:AVNOD:symbol
 Fixes:BENBI:symbol
 Fixes:BIVIP:symbol
 Fixes:DADGA:symbol
+Fixes:DAPRO:symbol
 Fixes:DELEG:symbol
 Fixes:DOSKU:symbol
 Fixes:DUBAG:symbol
@@ -68,6 +79,7 @@ Fixes:EPGOS:symbol
 Fixes:ESDOS:symbol
 Fixes:ESKAM:symbol
 Fixes:ESMEB:symbol
+Fixes:GOSMA:symbol
 Fixes:GUGAM:symbol
 Fixes:GUKEX:symbol
 Fixes:GUKNA:symbol
@@ -79,6 +91,7 @@ Fixes:IDNUS:symbol
 Fixes:IDPOG:symbol
 Fixes:IDULA:symbol
 Fixes:IDVUK:symbol
+Fixes:IGADA:symbol
 Fixes:IGEDU:symbol
 Fixes:IGITA:symbol
 Fixes:IGMIG:symbol
@@ -149,7 +162,10 @@ Fixes:VETIP:symbol
 Fixes:VEXAN:symbol
 Fixes:VIBUB:symbol
 Fixes:VINIG:symbol
+Fixes:GULEK:symbol
 Fixes:MIDOX:symbol
+Fixes:TULMU:symbol
+Fixes:MUGNU:symbol
 Fixes:PONEP:symbol
 Fixes:TOSIM:symbol
 High airways:A461:line
@@ -172,6 +188,7 @@ High airways:V113:line
 High airways:V114:line
 High airways:V33:line
 High airways:V38:line
+High airways:V52:line
 High airways:V54:line
 High airways:V65:line
 High airways:V78:line
@@ -184,6 +201,7 @@ High airways:W118:line
 High airways:W128:line
 High airways:W129:line
 High airways:W139:line
+High airways:W141:line
 High airways:W151:line
 High airways:W156:line
 High airways:W175:line
