@@ -2,33 +2,33 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZGDY å¼ å®¶ç•Œ/è·èŠ± ZHANGJIAJIE/Hehua 08-26:centerline
+Runways:ZGDY ÕÅ¼Ò½ç/ºÉ»¨ ZHANGJIAJIE/Hehua 08-26:centerline
 Airports:ZGDY:symbol
-Runways:ZGGG å¹¿å·/ç™½äº‘ GUANGZHOU/Baiyun 01-19:centerline
-Runways:ZGGG å¹¿å·/ç™½äº‘ GUANGZHOU/Baiyun 02L-20R:centerline
-Runways:ZGGG å¹¿å·/ç™½äº‘ GUANGZHOU/Baiyun 02R-20L:centerline
+Runways:ZGGG ¹ãÖİ/°×ÔÆ GUANGZHOU/Baiyun 01-19:centerline
+Runways:ZGGG ¹ãÖİ/°×ÔÆ GUANGZHOU/Baiyun 02L-20R:centerline
+Runways:ZGGG ¹ãÖİ/°×ÔÆ GUANGZHOU/Baiyun 02R-20L:centerline
 Airports:ZGGG:symbol
-Runways:ZGHA é•¿æ²™/é»„èŠ± CHANGSHA/Huanghua 18L-36R:centerline
-Runways:ZGHA é•¿æ²™/é»„èŠ± CHANGSHA/Huanghua 18R-36L:centerline
+Runways:ZGHA ³¤É³/»Æ»¨ CHANGSHA/Huanghua 18L-36R:centerline
+Runways:ZGHA ³¤É³/»Æ»¨ CHANGSHA/Huanghua 18R-36L:centerline
 Airports:ZGHA:symbol
-Runways:ZGKL æ¡‚æ—/ä¸¤æ±Ÿ GUILIN/Liangjiang 01-19:centerline
+Runways:ZGKL ¹ğÁÖ/Á½½­ GUILIN/Liangjiang 01-19:centerline
 Airports:ZGKL:symbol
-Runways:ZGNN å—å®/å´åœ© NANNING/Wuxu 05-23:centerline
+Runways:ZGNN ÄÏÄş/ÎâÛ× NANNING/Wuxu 05-23:centerline
 Airports:ZGNN:symbol
-Runways:ZGOW æ­é˜³/æ½®æ±• JIEYANG/Chaoshan 04-22:centerline
+Runways:ZGOW ½ÒÑô/³±ÉÇ JIEYANG/Chaoshan 04-22:centerline
 Airports:ZGOW:symbol
-Runways:ZGSZ æ·±åœ³/å®å®‰ SHENZHEN/Baoan 15-33:centerline
-Runways:ZGSZ æ·±åœ³/å®å®‰ SHENZHEN/Baoan 16-34:centerline
+Runways:ZGSZ ÉîÛÚ/±¦°² SHENZHEN/Baoan 15-33:centerline
+Runways:ZGSZ ÉîÛÚ/±¦°² SHENZHEN/Baoan 16-34:centerline
 Airports:ZGSZ:symbol
 Runways:ZHEC HUAHU 01L-19R:centerline
 Runways:ZHEC HUAHU 01R-19L:centerline
 Airports:ZHEC:symbol
-Runways:ZHHH æ­¦æ±‰/å¤©æ²³ WUHAN/Tianhe 04L-22R:centerline
-Runways:ZHHH æ­¦æ±‰/å¤©æ²³ WUHAN/Tianhe 04R-22L:centerline
+Runways:ZHHH Îäºº/ÌìºÓ WUHAN/Tianhe 04L-22R:centerline
+Runways:ZHHH Îäºº/ÌìºÓ WUHAN/Tianhe 04R-22L:centerline
 Airports:ZHHH:symbol
 Runways:ZHXF LIUJI 01-19:centerline
 Airports:ZHXF:symbol
-Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ YICHANG/Sanxia 14-32:centerline
+Runways:ZHYC ÒË²ı/ÈıÏ¿ YICHANG/Sanxia 14-32:centerline
 Airports:ZHYC:symbol
 VORs:BHY:symbol
 VORs:BSE:symbol

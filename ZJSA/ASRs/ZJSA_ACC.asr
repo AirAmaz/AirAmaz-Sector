@@ -2,12 +2,12 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZJHK 娴峰彛/缇庡叞 HAIKOU/Meilan 09-27:centerline
-Runways:ZJHK 娴峰彛/缇庡叞 HAIKOU/Meilan 10-28:centerline
+Runways:ZJHK 海口/美兰 HAIKOU/Meilan 09-27:centerline
+Runways:ZJHK 海口/美兰 HAIKOU/Meilan 10-28:centerline
 Airports:ZJHK:symbol
-Runways:ZJQH 鐞兼捣/鍗氶硨 QIONGHAI/Boao 15-33:centerline
+Runways:ZJQH 琼海/博鳌 QIONGHAI/Boao 15-33:centerline
 Airports:ZJQH:symbol
-Runways:ZJSY 涓変簹/鍑ゅ嚢 SANYA/Phoenix 08-26:centerline
+Runways:ZJSY 三亚/凤凰 SANYA/Phoenix 08-26:centerline
 Airports:ZJSY:symbol
 VORs:BHY:symbol
 VORs:DBA:symbol

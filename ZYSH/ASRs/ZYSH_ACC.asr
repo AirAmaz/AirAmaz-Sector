@@ -2,26 +2,26 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” HULUNBEIER/Hailar 09-27:centerline
+Runways:ZBLA ºôÂ×±´¶û/º£À­¶û HULUNBEIER/Hailar 09-27:centerline
 Airports:ZBLA:symbol
-Runways:ZBMZ æ»¡æ´²é‡Œ/è¥¿éƒŠ MANZHOULI/Xijiao 12-30:centerline
+Runways:ZBMZ ÂúÖŞÀï/Î÷½¼ MANZHOULI/Xijiao 12-30:centerline
 Airports:ZBMZ:symbol
-Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ CHANGCHUN/Longjia 06-24:centerline
+Runways:ZYCC ³¤´º/Áú¼Î CHANGCHUN/Longjia 06-24:centerline
 Airports:ZYCC:symbol
-Runways:ZYHB å“ˆå°”æ»¨/å¤ªå¹³ HARBIN/Taiping 05L-23R:centerline
+Runways:ZYHB ¹ş¶û±õ/Ì«Æ½ HARBIN/Taiping 05L-23R:centerline
 Airports:ZYHB:symbol
-Runways:ZYJM ä½³æœ¨æ–¯ JIAMUSI/Jiamusi 06-24:centerline
+Runways:ZYJM ¼ÑÄ¾Ë¹ JIAMUSI/Jiamusi 06-24:centerline
 Airports:ZYJM:symbol
-Runways:ZYMD ç‰¡ä¸¹æ±Ÿ/æµ·æµª MUDANJIANG/Hailang 04-22:centerline
+Runways:ZYMD Äµµ¤½­/º£ÀË MUDANJIANG/Hailang 04-22:centerline
 Airports:ZYMD:symbol
-Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ QIQIHAR/Sanjiazi 17L-35R:centerline
-Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ QIQIHAR/Sanjiazi 17R-35L:centerline
+Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó QIQIHAR/Sanjiazi 17L-35R:centerline
+Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó QIQIHAR/Sanjiazi 17R-35L:centerline
 Airports:ZYQQ:symbol
-Runways:ZYTL å¤§è¿/å‘¨æ°´å­ DALIAN/Zhoushuizi 10-28:centerline
+Runways:ZYTL ´óÁ¬/ÖÜË®×Ó DALIAN/Zhoushuizi 10-28:centerline
 Airports:ZYTL:symbol
-Runways:ZYTX æ²ˆé˜³/æ¡ƒä»™ SHENYANG/Taoxian 06-24:centerline
+Runways:ZYTX ÉòÑô/ÌÒÏÉ SHENYANG/Taoxian 06-24:centerline
 Airports:ZYTX:symbol
-Runways:ZYYJ å»¶å‰/æœé˜³å· YANJI/Chaoyangchuan 09-27:centerline
+Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ YANJI/Chaoyangchuan 09-27:centerline
 Airports:ZYYJ:symbol
 VORs:HLD:symbol
 VORs:CHF:symbol

@@ -2,38 +2,38 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBAA åŒ—äº¬/é¦–éƒ½ BEIJING/Capital 01-19:centerline
-Runways:ZBAA åŒ—äº¬/é¦–éƒ½ BEIJING/Capital 18L-36R:centerline
-Runways:ZBAA åŒ—äº¬/é¦–éƒ½ BEIJING/Capital 18R-36L:centerline
+Runways:ZBAA ±±¾©/Ê×¶¼ BEIJING/Capital 01-19:centerline
+Runways:ZBAA ±±¾©/Ê×¶¼ BEIJING/Capital 18L-36R:centerline
+Runways:ZBAA ±±¾©/Ê×¶¼ BEIJING/Capital 18R-36L:centerline
 Airports:ZBAA:symbol
-Runways:ZBAD åŒ—äº¬/å¤§å…´ BEIJING/Daxing 01L-19R:centerline
-Runways:ZBAD åŒ—äº¬/å¤§å…´ BEIJING/Daxing 11L-29R:centerline
-Runways:ZBAD åŒ—äº¬/å¤§å…´ BEIJING/Daxing 17L-35R:centerline
-Runways:ZBAD åŒ—äº¬/å¤§å…´ BEIJING/Daxing 17R-35L:centerline
+Runways:ZBAD ±±¾©/´óĞË BEIJING/Daxing 01L-19R:centerline
+Runways:ZBAD ±±¾©/´óĞË BEIJING/Daxing 11L-29R:centerline
+Runways:ZBAD ±±¾©/´óĞË BEIJING/Daxing 17L-35R:centerline
+Runways:ZBAD ±±¾©/´óĞË BEIJING/Daxing 17R-35L:centerline
 Airports:ZBAD:symbol
-Runways:ZBDS é„‚å°”å¤šæ–¯/ä¼Šé‡‘éœæ´› ORDOS/Ejin Horo 13-31:centerline
+Runways:ZBDS ¶õ¶û¶àË¹/ÒÁ½ğ»ôÂå ORDOS/Ejin Horo 13-31:centerline
 Airports:ZBDS:symbol
-Runways:ZBDT å¤§åŒ/äº‘å†ˆ DATONG/Yungang 14-32:centerline
+Runways:ZBDT ´óÍ¬/ÔÆ¸Ô DATONG/Yungang 14-32:centerline
 Airports:ZBDT:symbol
-Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” HOHHOT/Baita 08-26:centerline
+Runways:ZBHH ºôºÍºÆÌØ/°×Ëş HOHHOT/Baita 08-26:centerline
 Airports:ZBHH:symbol
-Runways:ZBOW åŒ…å¤´/ä¸œæ²³ BAOTOU/Donghe 13-31:centerline
+Runways:ZBOW °üÍ·/¶«ºÓ BAOTOU/Donghe 13-31:centerline
 Airports:ZBOW:symbol
-Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š SHIJIAZHUANG/Zhengding 15-33:centerline
+Runways:ZBSJ Ê¯¼Ò×¯/Õı¶¨ SHIJIAZHUANG/Zhengding 15-33:centerline
 Airports:ZBSJ:symbol
-Runways:ZBTJ å¤©æ´¥/æ»¨æµ· TIANJIN/Binhai 16L-34R:centerline
-Runways:ZBTJ å¤©æ´¥/æ»¨æµ· TIANJIN/Binhai 16R-34L:centerline
+Runways:ZBTJ Ìì½ò/±õº£ TIANJIN/Binhai 16L-34R:centerline
+Runways:ZBTJ Ìì½ò/±õº£ TIANJIN/Binhai 16R-34L:centerline
 Airports:ZBTJ:symbol
-Runways:ZBYC è¿åŸ/ç›æ¹– YUNCHENG/Yanhu 08-26:centerline
+Runways:ZBYC ÔË³Ç/ÑÎºş YUNCHENG/Yanhu 08-26:centerline
 Airports:ZBYC:symbol
-Runways:ZBYN å¤ªåŸ/æ­¦å®¿ TAIYUAN/Wusu 13-31:centerline
+Runways:ZBYN Ì«Ô­/ÎäËŞ TAIYUAN/Wusu 13-31:centerline
 Airports:ZBYN:symbol
-Runways:ZHCC éƒ‘å·/æ–°éƒ‘ ZHENGZHOU/Xinzheng 12L-30R:centerline
-Runways:ZHCC éƒ‘å·/æ–°éƒ‘ ZHENGZHOU/Xinzheng 12R-30L:centerline
+Runways:ZHCC Ö£Öİ/ĞÂÖ£ ZHENGZHOU/Xinzheng 12L-30R:centerline
+Runways:ZHCC Ö£Öİ/ĞÂÖ£ ZHENGZHOU/Xinzheng 12R-30L:centerline
 Airports:ZHCC:symbol
-Runways:ZSJN æµå—/é¥å¢™ JINAN/Yaoqiang 01-19:centerline
+Runways:ZSJN ¼ÃÄÏ/Ò£Ç½ JINAN/Yaoqiang 01-19:centerline
 Airports:ZSJN:symbol
-Runways:ZSLY ä¸´æ²‚/å¯é˜³ LINYI/Qiyang 01-19:centerline
+Runways:ZSLY ÁÙÒÊ/ÆôÑô LINYI/Qiyang 01-19:centerline
 Airports:ZSLY:symbol
 VORs:BAV:symbol
 VORs:BJZ:symbol

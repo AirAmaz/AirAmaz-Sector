@@ -1,9 +1,13 @@
-# AirAmaz OpenSource Sector (Chinese mainland)
-The AirAmaz Sector project is dedicated to providing **free**, **open-source** EuroScope sectors to help flight simulation enthusiasts from around the world have a better virtual air traffic control experience.
+# AirAmaz 开源扇区项目 (中国大陆)
+**<!> 由于中国港澳台地区使用不同的飞行规则，我们暂时没有制作相关扇区，预计在AIRAC2501能完善港澳台地区的扇区**
 
-**If you have any good suggestions or feedback regarding this sector, feel free to report them on our GitHub issue page!**
+AirAmaz 开源扇区项目致力于提供免费、开源的 Euroscope 扇区以帮助来自世界各地的模拟管制爱好者获得更好的模拟飞行体验。
 
-### Implemented FIRs
+如果您在使用扇区的过程中遇到了任何问题、或者有任何好的建议，欢迎在 ``Issues`` 页向我们提出！
+
+如果您喜欢本扇区，欢迎您给扇区点点 star, 或者在下方赞赏我们，您的支持是我们更新的动力！
+
+### 飞行情报区
 - ZBPE - AIRAC2412
 - ZGZU - AIRAC2412
 - ZHWH - AIRAC2412
@@ -14,24 +18,23 @@ The AirAmaz Sector project is dedicated to providing **free**, **open-source** E
 - ZWUQ - AIRAC2412
 - ZYSH - AIRAC2412
 
-### To do
-- [ ] Render Symbols & Airspace with DxRenderPlugin
-- [ ] Configuration file for MTEP
+### 前置要求
+1. 为保证扇区能够正常加载，您需要安装最新的 Microsoft Visual C++ (x86) 可再发行程序包版本: https://aka.ms/vs/17/release/vc_redist.x86.exe
+2. 同时您需要安装 DirectX Runtime 以支持我们的渲染库运行: https://www.microsoft.com/en-us/download/details.aspx?id=35
 
-### Prerequisites
-1. Before using AirAmaz sector be sure to download and install the latest C++ redistributable package from Microsoft: https://aka.ms/vs/17/release/vc_redist.x86.exe
-2. To make our render work, be sure to download and install the latest DirectX Runtime from Microsoft: https://www.microsoft.com/en-us/download/details.aspx?id=35
+### 使用教程
+ - [持续更新中](https://github.com/AirAmaz/AirAmaz-Sector/wiki)
 
-### Usage
-To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscription to access the necessary navigation data.
+### 配置扇区
+由于版权原因，AirAmaz扇区 **不提供** 导航数据，您需要订阅 ``Navigraph Unlimited`` 以获取最新的导航数据。
 
-1. Open https://navigraph.com/downloads, find `FSNavigator` in the list, and download it.
-2. Extract or install the downloaded files, then copy the `AIRWAY.txt` and `ISEC.txt` files into the `Data\NAV\` directory.
-3. Optional, put your MTEP Configuration file into `Data\Plugins\MTEP\`
-4. Enjoy your self.
+1. 在浏览器中打开 https://navigraph.com/downloads, 下载 `FSNavigator` 导航数据。
+2. 下载后安装导航数据到任意位置，然后将安装的 `AIRWAY.txt` 和 `ISEC.txt` 复制进扇区的 `Data\NAV\` 目录内。
+3. [可选] 将你的 MTEP 配置文件放入 `Data\Plugins\MTEP\` 目录内。
+4. 尽情享受吧！
 
 
-### Included plugins
+### 包含插件
 - TopSky Plugin(Closed source) - Juha Holopainen
 - Ground Radar plugin(Closed source)  - Juha Holopainen
 - MTEPlugin - [KingfuChan](https://github.com/KingfuChan/MTEPlugin-for-EuroScope)
@@ -40,12 +43,12 @@ To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscript
 - Compass for Euroscope(Closed source) - [William He](https://github.com/fwilliamhe)
 - AirAmaz RenderPlugin(Closed source now, still incomplete) - [William He](https://github.com/fwilliamhe)
 
-### Credits
+### 外部内容
 - TopSky Symbols from [uk-controller-pack](https://github.com/VATSIM-UK/uk-controller-pack)
 - ICAO_* files from 2313 [VATPRC](https://www.vatprc.net/) Sector
 - TopSky Cursors from [VATPRC](https://www.vatprc.net/)
 
-### Contributors
+### 贡献者
 - [William He](https://github.com/fwilliamhe)
 - [Bradley.L](https://github.com/BradleyLu)
 - [天真永不消逝](https://github.com/shiguanglindi)
@@ -56,13 +59,11 @@ To use the AirAmaz sector properly, you need a ``Navigraph Unlimited`` subscript
 - [F̶i̶n̶a̶l̶.̶]()
 - [tn.]()
 - [Zihan Wang]()
-### Encountered a bug?
-Report in `issues`
 
-### Declaration
-This project may include data or information sourced from publicly available internet resources. All such content remains the intellectual property of its respective owners. The use of these resources is strictly for educational and non-commercial purposes in compliance with applicable copyright laws. If you are the owner of any content used and wish for it to be removed or properly credited, please contact us, and we will take appropriate action.
+### 声明
+本项目可能包含来源于公开互联网资源的数据或信息。所有此类内容均为其各自所有者的知识产权。使用这些资源仅限于教育和非商业目的，并遵守适用的版权法律。如果您是所使用内容的所有者并希望其被移除或获得适当的署名，请与我们联系，我们将采取相应措施。
 
-### Buy us a coffee
+### 支持我们
 ```bash
 USDT  Tron(TRC20)     TCTU3Y8G18M8NN4YZ6mdgoRgT2jbhgj9gm
 BTC   Bitcoin(BTC)    bc1quu4szagp072v9uvslh8m8xd5fn9swfrhwrf39f

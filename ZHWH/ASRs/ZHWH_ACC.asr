@@ -2,18 +2,18 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZHCC éƒ‘å·ž/æ–°éƒ‘ ZHENGZHOU/Xinzheng 12L-30R:centerline
-Runways:ZHCC éƒ‘å·ž/æ–°éƒ‘ ZHENGZHOU/Xinzheng 12R-30L:centerline
+Runways:ZHCC Ö£ÖÝ/ÐÂÖ£ ZHENGZHOU/Xinzheng 12L-30R:centerline
+Runways:ZHCC Ö£ÖÝ/ÐÂÖ£ ZHENGZHOU/Xinzheng 12R-30L:centerline
 Airports:ZHCC:symbol
 Runways:ZHEC HUAHU 01L-19R:centerline
 Runways:ZHEC HUAHU 01R-19L:centerline
 Airports:ZHEC:symbol
-Runways:ZHHH æ­¦æ±‰/å¤©æ²³ WUHAN/Tianhe 04L-22R:centerline
-Runways:ZHHH æ­¦æ±‰/å¤©æ²³ WUHAN/Tianhe 04R-22L:centerline
+Runways:ZHHH Îäºº/ÌìºÓ WUHAN/Tianhe 04L-22R:centerline
+Runways:ZHHH Îäºº/ÌìºÓ WUHAN/Tianhe 04R-22L:centerline
 Airports:ZHHH:symbol
 Runways:ZHXF LIUJI 01-19:centerline
 Airports:ZHXF:symbol
-Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ YICHANG/Sanxia 14-32:centerline
+Runways:ZHYC ÒË²ý/ÈýÏ¿ YICHANG/Sanxia 14-32:centerline
 Airports:ZHYC:symbol
 VORs:WXI:symbol
 VORs:LIN:symbol

@@ -2,68 +2,68 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZGOW æ­é˜³/æ½®æ±• JIEYANG/Chaoshan 04-22:centerline
+Runways:ZGOW ½ÒÑô/³±ÉÇ JIEYANG/Chaoshan 04-22:centerline
 Airports:ZGOW:symbol
-Runways:ZSAM å¦é—¨/é«˜å´ XIAMEN/Gaoqi 05-23:centerline
+Runways:ZSAM ÏÃÃÅ/¸ßÆé XIAMEN/Gaoqi 05-23:centerline
 Airports:ZSAM:symbol
-Runways:ZSCG å¸¸å·/å¥”ç‰› CHANGZHOU/Benniu 11-29:centerline
+Runways:ZSCG ³£Öİ/±¼Å£ CHANGZHOU/Benniu 11-29:centerline
 Airports:ZSCG:symbol
-Runways:ZSCN å—æ˜Œ/æ˜ŒåŒ— NANCHANG/Changbei 03-21:centerline
+Runways:ZSCN ÄÏ²ı/²ı±± NANCHANG/Changbei 03-21:centerline
 Airports:ZSCN:symbol
-Runways:ZSFZ ç¦å·/é•¿ä¹ FUZHOU/Changle 03-21:centerline
+Runways:ZSFZ ¸£Öİ/³¤ÀÖ FUZHOU/Changle 03-21:centerline
 Airports:ZSFZ:symbol
-Runways:ZSHC æ­å·/è§å±± HANGZHOU/Xiaoshan 06-24:centerline
-Runways:ZSHC æ­å·/è§å±± HANGZHOU/Xiaoshan 07-25:centerline
+Runways:ZSHC º¼Öİ/ÏôÉ½ HANGZHOU/Xiaoshan 06-24:centerline
+Runways:ZSHC º¼Öİ/ÏôÉ½ HANGZHOU/Xiaoshan 07-25:centerline
 Airports:ZSHC:symbol
-Runways:ZSJN æµå—/é¥å¢™ JINAN/Yaoqiang 01-19:centerline
+Runways:ZSJN ¼ÃÄÏ/Ò£Ç½ JINAN/Yaoqiang 01-19:centerline
 Airports:ZSJN:symbol
-Runways:ZSLG è¿äº‘æ¸¯/èŠ±æœå±± LIANYUNGANG/Huaguoshan 03-21:centerline
+Runways:ZSLG Á¬ÔÆ¸Û/»¨¹ûÉ½ LIANYUNGANG/Huaguoshan 03-21:centerline
 Airports:ZSLG:symbol
-Runways:ZSLY ä¸´æ²‚/å¯é˜³ LINYI/Qiyang 01-19:centerline
+Runways:ZSLY ÁÙÒÊ/ÆôÑô LINYI/Qiyang 01-19:centerline
 Airports:ZSLY:symbol
-Runways:ZSNB å®æ³¢/æ ç¤¾ NINGBO/Lishe 13-31:centerline
+Runways:ZSNB Äş²¨/èİÉç NINGBO/Lishe 13-31:centerline
 Airports:ZSNB:symbol
-Runways:ZSNJ å—äº¬/ç¦„å£ NANJING/Lukou 06-24:centerline
-Runways:ZSNJ å—äº¬/ç¦„å£ NANJING/Lukou 07-25:centerline
+Runways:ZSNJ ÄÏ¾©/Â»¿Ú NANJING/Lukou 06-24:centerline
+Runways:ZSNJ ÄÏ¾©/Â»¿Ú NANJING/Lukou 07-25:centerline
 Airports:ZSNJ:symbol
-Runways:ZSNT å—é€š/å…´ä¸œ NANTONG/Xingdong 18-36:centerline
+Runways:ZSNT ÄÏÍ¨/ĞË¶« NANTONG/Xingdong 18-36:centerline
 Airports:ZSNT:symbol
-Runways:ZSOF åˆè‚¥/æ–°æ¡¥ HEFEI/Xinqiao 15-33:centerline
+Runways:ZSOF ºÏ·Ê/ĞÂÇÅ HEFEI/Xinqiao 15-33:centerline
 Airports:ZSOF:symbol
-Runways:ZSPD ä¸Šæµ·/æµ¦ä¸œ SHANGHAI/Pudong 16L-34R:centerline
-Runways:ZSPD ä¸Šæµ·/æµ¦ä¸œ SHANGHAI/Pudong 16R-34L:centerline
-Runways:ZSPD ä¸Šæµ·/æµ¦ä¸œ SHANGHAI/Pudong 17L-35R:centerline
-Runways:ZSPD ä¸Šæµ·/æµ¦ä¸œ SHANGHAI/Pudong 17R-35L:centerline
+Runways:ZSPD ÉÏº£/ÆÖ¶« SHANGHAI/Pudong 16L-34R:centerline
+Runways:ZSPD ÉÏº£/ÆÖ¶« SHANGHAI/Pudong 16R-34L:centerline
+Runways:ZSPD ÉÏº£/ÆÖ¶« SHANGHAI/Pudong 17L-35R:centerline
+Runways:ZSPD ÉÏº£/ÆÖ¶« SHANGHAI/Pudong 17R-35L:centerline
 Airports:ZSPD:symbol
-Runways:ZSQD é’å²›/èƒ¶ä¸œ QINGDAO/Jiaodong 16-34:centerline
-Runways:ZSQD é’å²›/èƒ¶ä¸œ QINGDAO/Jiaodong 17-35:centerline
+Runways:ZSQD Çàµº/½º¶« QINGDAO/Jiaodong 16-34:centerline
+Runways:ZSQD Çàµº/½º¶« QINGDAO/Jiaodong 17-35:centerline
 Airports:ZSQD:symbol
-Runways:ZSQZ æ³‰å·/æ™‹æ±Ÿ QUANZHOU/Jinjiang 03-21:centerline
+Runways:ZSQZ ÈªÖİ/½ú½­ QUANZHOU/Jinjiang 03-21:centerline
 Airports:ZSQZ:symbol
-Runways:ZSSH æ·®å®‰/æ¶Ÿæ°´ HUAIAN/Lianshui 04-22:centerline
+Runways:ZSSH »´°²/Á°Ë® HUAIAN/Lianshui 04-22:centerline
 Airports:ZSSH:symbol
-Runways:ZSSS ä¸Šæµ·/è™¹æ¡¥ SHANGHAI/Hongqiao 18L-36R:centerline
-Runways:ZSSS ä¸Šæµ·/è™¹æ¡¥ SHANGHAI/Hongqiao 18R-36L:centerline
+Runways:ZSSS ÉÏº£/ºçÇÅ SHANGHAI/Hongqiao 18L-36R:centerline
+Runways:ZSSS ÉÏº£/ºçÇÅ SHANGHAI/Hongqiao 18R-36L:centerline
 Airports:ZSSS:symbol
-Runways:ZSTX é»„å±±/å±¯æºª HUANGSHAN/Tunxi 13-31:centerline
+Runways:ZSTX »ÆÉ½/ÍÍÏª HUANGSHAN/Tunxi 13-31:centerline
 Airports:ZSTX:symbol
-Runways:ZSWH å¨æµ·/å¤§æ°´æ³Š WEIHAI/Dashuipo 03-21:centerline
+Runways:ZSWH Íşº£/´óË®²´ WEIHAI/Dashuipo 03-21:centerline
 Airports:ZSWH:symbol
-Runways:ZSWX æ— é”¡/ç¡•æ”¾ WUXI/Shuofang 03-21:centerline
+Runways:ZSWX ÎŞÎı/Ë¶·Å WUXI/Shuofang 03-21:centerline
 Airports:ZSWX:symbol
-Runways:ZSWZ æ¸©å·/é¾™æ¹¾ WENZHOU/Longwan 03-21:centerline
+Runways:ZSWZ ÎÂÖİ/ÁúÍå WENZHOU/Longwan 03-21:centerline
 Airports:ZSWZ:symbol
-Runways:ZSXZ å¾å·/è§‚éŸ³ XUZHOU/Guanyin 09-27:centerline
+Runways:ZSXZ ĞìÖİ/¹ÛÒô XUZHOU/Guanyin 09-27:centerline
 Airports:ZSXZ:symbol
-Runways:ZSYA æ‰¬å·/æ³°å· YANGZHOU/Taizhou 17-35:centerline
+Runways:ZSYA ÑïÖİ/Ì©Öİ YANGZHOU/Taizhou 17-35:centerline
 Airports:ZSYA:symbol
-Runways:ZSYN ç›åŸ/å—æ´‹ YANCHENG/Nanyang 04-22:centerline
+Runways:ZSYN ÑÎ³Ç/ÄÏÑó YANCHENG/Nanyang 04-22:centerline
 Airports:ZSYN:symbol
-Runways:ZSYT çƒŸå°/è“¬è± YANTAI/Penglai 05-23:centerline
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ YANTAI/Penglai 05-23:centerline
 Airports:ZSYT:symbol
-Runways:ZSYW ä¹‰ä¹Œ YIWU/Yiwu 02-20:centerline
+Runways:ZSYW ÒåÎÚ YIWU/Yiwu 02-20:centerline
 Airports:ZSYW:symbol
-Runways:ZSZS èˆŸå±±/æ™®é™€å±± ZHOUSHAN/Putuoshan 18-36:centerline
+Runways:ZSZS ÖÛÉ½/ÆÕÍÓÉ½ ZHOUSHAN/Putuoshan 18-36:centerline
 Airports:ZSZS:symbol
 VORs:CSS:symbol
 VORs:JCS:symbol

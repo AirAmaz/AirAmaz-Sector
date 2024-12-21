@@ -2,22 +2,22 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 
-Runways:ZBYC è¿åŸ/ç›æ¹– YUNCHENG/Yanhu 08-26:centerline
+Runways:ZBYC ÔË³Ç/ÑÎºş YUNCHENG/Yanhu 08-26:centerline
 Airports:ZBYC:symbol
 Runways:ZL02 JIUQUAN 14-32:centerline
 Airports:ZL02:symbol
 Runways:ZL03 BATANG 10-28:centerline
 Airports:ZL03:symbol
-Runways:ZLDH æ•¦ç…Œ/è«é«˜ DUNHUANG/Mogao 08-26:centerline
+Runways:ZLDH ¶Ø»Í/Äª¸ß DUNHUANG/Mogao 08-26:centerline
 Airports:ZLDH:symbol
-Runways:ZLIC é“¶å·/æ²³ä¸œ YINCHUAN/Hedong 03-21:centerline
+Runways:ZLIC Òø´¨/ºÓ¶« YINCHUAN/Hedong 03-21:centerline
 Airports:ZLIC:symbol
-Runways:ZLLL å…°å·/ä¸­å· LANZHOU/Zhongchuan 18-36:centerline
+Runways:ZLLL À¼Öİ/ÖĞ´¨ LANZHOU/Zhongchuan 18-36:centerline
 Airports:ZLLL:symbol
-Runways:ZLXN è¥¿å®/æ›¹å®¶å ¡ XINING/Caojiapu 11-29:centerline
+Runways:ZLXN Î÷Äş/²Ü¼Ò±¤ XINING/Caojiapu 11-29:centerline
 Airports:ZLXN:symbol
-Runways:ZLXY è¥¿å®‰/å’¸é˜³ XI'AN/Xianyang 05L-23R:centerline
-Runways:ZLXY è¥¿å®‰/å’¸é˜³ XI'AN/Xianyang 05R-23L:centerline
+Runways:ZLXY Î÷°²/ÏÌÑô XI'AN/Xianyang 05L-23R:centerline
+Runways:ZLXY Î÷°²/ÏÌÑô XI'AN/Xianyang 05R-23L:centerline
 Airports:ZLXY:symbol
 VORs:DKO:symbol
 VORs:YCE:symbol
