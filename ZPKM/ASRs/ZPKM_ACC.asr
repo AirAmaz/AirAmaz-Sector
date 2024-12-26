@@ -15,7 +15,8 @@ Runways:ZPPP 昆明/长水 KUNMING/Changshui 04-22:centerline
 Airports:ZPPP:symbol
 Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 02L-20R:centerline
 Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 02R-20L:centerline
-Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 03-21:centerline
+Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 03L-21R:centerline
+Runways:ZUCK 重庆/江北 CHONGQING/Jiangbei 03R-21L:centerline
 Airports:ZUCK:symbol
 Runways:ZUGY 贵阳/龙洞堡 GUIYANG/Longdongbao 01L-19R:centerline
 Runways:ZUGY 贵阳/龙洞堡 GUIYANG/Longdongbao 01R-19L:centerline
@@ -53,7 +54,9 @@ VORs:CKG:symbol
 VORs:CTU:symbol
 VORs:CZH:symbol
 VORs:DCH:symbol
+VORs:DRD:symbol
 VORs:FLG:symbol
+VORs:GMM:symbol
 VORs:GYN:symbol
 VORs:HLC:symbol
 VORs:JTG:symbol
@@ -63,6 +66,8 @@ VORs:KHP:symbol
 VORs:KWE:symbol
 VORs:LPS:symbol
 VORs:LXA:symbol
+VORs:LZP:symbol
+VORs:MYD:symbol
 VORs:MYG:symbol
 VORs:QJG:symbol
 VORs:QNX:symbol
@@ -81,6 +86,7 @@ NDBs:DS:symbol
 NDBs:OS:symbol
 NDBs:RG:symbol
 NDBs:SB:symbol
+NDBs:W:symbol
 NDBs:ZW:symbol
 Fixes:ELKAL:symbol
 Fixes:IDEPO:symbol
@@ -182,6 +188,7 @@ Fixes:ELDUD:symbol
 Fixes:ELNUN:symbol
 Fixes:EMSOV:symbol
 Fixes:ENLIL:symbol
+Fixes:ENPAT:symbol
 Fixes:ENVIS:symbol
 Fixes:EPGAL:symbol
 Fixes:ESBAM:symbol
@@ -211,6 +218,7 @@ Fixes:IPNAG:symbol
 Fixes:IRVED:symbol
 Fixes:ISDUM:symbol
 Fixes:ISMAB:symbol
+Fixes:ISMUL:symbol
 Fixes:IVRUG:symbol
 Fixes:IVSOL:symbol
 Fixes:KADSA:symbol
@@ -251,6 +259,7 @@ Fixes:NOPIR:symbol
 Fixes:OBMIG:symbol
 Fixes:OKAKO:symbol
 Fixes:OLBAS:symbol
+Fixes:OLGUT:symbol
 Fixes:OLKOB:symbol
 Fixes:OLSEP:symbol
 Fixes:OLVAT:symbol
@@ -302,6 +311,7 @@ Fixes:TT904:symbol
 Fixes:TT922:symbol
 Fixes:TT923:symbol
 Fixes:UBDID:symbol
+Fixes:UBGEM:symbol
 Fixes:UBGUP:symbol
 Fixes:UBKER:symbol
 Fixes:UBRAB:symbol
@@ -331,6 +341,7 @@ Fixes:UU802:symbol
 Fixes:UU803:symbol
 Fixes:UU901:symbol
 Fixes:VABKU:symbol
+Fixes:VAMSI:symbol
 Fixes:VEDPO:symbol
 Fixes:VELPU:symbol
 Fixes:VIGAN:symbol
@@ -396,6 +407,9 @@ High airways:W239:line
 High airways:W240:line
 High airways:W242:line
 High airways:W25:line
+High airways:W260:line
+High airways:W261:line
+High airways:W262:line
 High airways:W3:line
 High airways:W30:line
 High airways:W34:line
@@ -413,12 +427,14 @@ High airways:W6:line
 High airways:W60:line
 High airways:W632:line
 High airways:W633:line
+High airways:W679:line
 High airways:W80:line
 High airways:W81:line
 High airways:W9:line
 High airways:W91:line
 High airways:Y1:line
 High airways:Y2:line
+High airways:Y3:line
 
 
 SHOWC:1

@@ -47,6 +47,8 @@ Runways:ZSSS 上海/虹桥 SHANGHAI/Hongqiao 18R-36L:centerline
 Airports:ZSSS:symbol
 Runways:ZSTX 黄山/屯溪 HUANGSHAN/Tunxi 13-31:centerline
 Airports:ZSTX:symbol
+Runways:ZSWA XUANZHOU 06-24:centerline
+Airports:ZSWA:symbol
 Runways:ZSWH 威海/大水泊 WEIHAI/Dashuipo 03-21:centerline
 Airports:ZSWH:symbol
 Runways:ZSWX 无锡/硕放 WUXI/Shuofang 03-21:centerline
@@ -90,6 +92,8 @@ VORs:HUN:symbol
 VORs:JDE:symbol
 VORs:JDG:symbol
 VORs:JDW:symbol
+VORs:JDZ:symbol
+VORs:JHS:symbol
 VORs:JNJ:symbol
 VORs:JTN:symbol
 VORs:KHN:symbol
@@ -117,6 +121,7 @@ VORs:TXN:symbol
 VORs:VMB:symbol
 VORs:WEH:symbol
 VORs:WFG:symbol
+VORs:WHX:symbol
 VORs:WNZ:symbol
 VORs:XDX:symbol
 VORs:XDY:symbol
@@ -176,7 +181,7 @@ Fixes:VETIB:symbol
 Fixes:XEBUL:symbol
 Fixes:ADGOL:symbol
 Fixes:IKUBA:symbol
-Fixes:P254:symbol
+Fixes:OTBUG:symbol
 Fixes:UPNEM:symbol
 Fixes:URGEB:symbol
 Fixes:ABTUB:symbol
@@ -231,7 +236,6 @@ Fixes:BOLEX:symbol
 Fixes:BONGI:symbol
 Fixes:BUGPA:symbol
 Fixes:BUPDU:symbol
-Fixes:CHARE:symbol
 Fixes:D273S:symbol
 Fixes:D304W:symbol
 Fixes:DADAT:symbol
@@ -372,7 +376,19 @@ Fixes:OSTIN:symbol
 Fixes:OVLEM:symbol
 Fixes:OVNEV:symbol
 Fixes:OVTIT:symbol
+Fixes:P179:symbol
+Fixes:P206:symbol
+Fixes:P215:symbol
 Fixes:P22:symbol
+Fixes:P262:symbol
+Fixes:P263:symbol
+Fixes:P321:symbol
+Fixes:P37:symbol
+Fixes:P395:symbol
+Fixes:P468:symbol
+Fixes:P566:symbol
+Fixes:P599:symbol
+Fixes:P645:symbol
 Fixes:PADRU:symbol
 Fixes:PAMVU:symbol
 Fixes:PANBO:symbol
@@ -428,7 +444,6 @@ Fixes:SS504:symbol
 Fixes:SS521:symbol
 Fixes:SSX32:symbol
 Fixes:SUBKU:symbol
-Fixes:SULEM:symbol
 Fixes:SUNBO:symbol
 Fixes:SUPAR:symbol
 Fixes:SURAK:symbol
@@ -500,6 +515,9 @@ High airways:G345:line
 High airways:G455:line
 High airways:G471:line
 High airways:G597:line
+High airways:H2:line
+High airways:J119:line
+High airways:J258:line
 High airways:L2:line
 High airways:M503:line
 High airways:R200:line
@@ -668,7 +686,9 @@ High airways:W651:line
 High airways:W652:line
 High airways:W661:line
 High airways:W662:line
+High airways:W669:line
 High airways:W67:line
+High airways:W670:line
 High airways:W73:line
 High airways:W8:line
 High airways:W95:line

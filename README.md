@@ -8,15 +8,15 @@ AirAmaz 开源扇区项目致力于提供免费、开源的 Euroscope 扇区以�
 如果您喜欢本扇区，欢迎您给扇区点点 star, 或者在下方赞赏我们，您的支持是我们更新的动力！
 
 ### 飞行情报区
-- ZBPE - AIRAC2412
-- ZGZU - AIRAC2412
-- ZHWH - AIRAC2412
-- ZJSA - AIRAC2412
-- ZLHW - AIRAC2412
-- ZPKM - AIRAC2412
-- ZSHA - AIRAC2412
-- ZWUQ - AIRAC2412
-- ZYSH - AIRAC2412
+- ZBPE - AIRAC2413
+- ZGZU - AIRAC2413
+- ZHWH - AIRAC2413
+- ZJSA - AIRAC2413
+- ZLHW - AIRAC2413
+- ZPKM - AIRAC2413
+- ZSHA - AIRAC2413
+- ZWUQ - AIRAC2413
+- ZYSH - AIRAC2413
 
 ### 前置要求
 1. 为保证扇区能够正常加载，您需要安装最新的 Microsoft Visual C++ (x86) 可再发行程序包版本: https://aka.ms/vs/17/release/vc_redist.x86.exe

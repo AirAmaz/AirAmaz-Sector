@@ -14,6 +14,8 @@ Runways:ZWWW ÎÚÂ³Ä¾Æë/µØÎÑ±¤ URUMQI/Diwopu 07-25:centerline
 Airports:ZWWW:symbol
 Runways:ZWYN YINING 06-24:centerline
 Airports:ZWYN:symbol
+VORs:KUS:symbol
+VORs:SQH:symbol
 VORs:AKS:symbol
 VORs:DJQ:symbol
 VORs:DSC:symbol
@@ -23,6 +25,7 @@ VORs:HTN:symbol
 VORs:KHG:symbol
 VORs:KLM:symbol
 VORs:NLT:symbol
+VORs:OLP:symbol
 VORs:QTV:symbol
 VORs:TAI:symbol
 VORs:TCH:symbol
@@ -172,6 +175,7 @@ High airways:W621:line
 High airways:W66:line
 High airways:W99:line
 High airways:Y1:line
+High airways:Y3:line
 
 
 SHOWC:1

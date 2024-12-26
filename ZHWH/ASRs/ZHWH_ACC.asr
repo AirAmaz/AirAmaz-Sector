@@ -56,6 +56,7 @@ Fixes:IGPAR:symbol
 Fixes:KALMU:symbol
 Fixes:OMGIB:symbol
 Fixes:AGSOS:symbol
+Fixes:AGUXI:symbol
 Fixes:AKOMA:symbol
 Fixes:ATMEM:symbol
 Fixes:ATSUD:symbol
@@ -64,6 +65,7 @@ Fixes:AVNOD:symbol
 Fixes:BENBI:symbol
 Fixes:BIVIP:symbol
 Fixes:DADGA:symbol
+Fixes:DAMEG:symbol
 Fixes:DAPRO:symbol
 Fixes:DELEG:symbol
 Fixes:DOSKU:symbol
@@ -95,6 +97,7 @@ Fixes:IGADA:symbol
 Fixes:IGEDU:symbol
 Fixes:IGITA:symbol
 Fixes:IGMIG:symbol
+Fixes:IGNIK:symbol
 Fixes:IGPIL:symbol
 Fixes:IKUBA:symbol
 Fixes:KAKSU:symbol
@@ -106,6 +109,7 @@ Fixes:LIMGI:symbol
 Fixes:MEGOB:symbol
 Fixes:MILOM:symbol
 Fixes:NIVUV:symbol
+Fixes:NODIM:symbol
 Fixes:NOPIN:symbol
 Fixes:NUNGA:symbol
 Fixes:OBDON:symbol
@@ -116,23 +120,18 @@ Fixes:OKTOX:symbol
 Fixes:OLMIB:symbol
 Fixes:OLPOV:symbol
 Fixes:OMLIX:symbol
+Fixes:ONUDU:symbol
 Fixes:ORODO:symbol
+Fixes:OSIRU:symbol
 Fixes:OSREK:symbol
+Fixes:OTBUG:symbol
 Fixes:OVLAR:symbol
-Fixes:P106:symbol
-Fixes:P124:symbol
-Fixes:P130:symbol
-Fixes:P24:symbol
 Fixes:P242:symbol
-Fixes:P254:symbol
-Fixes:P346:symbol
-Fixes:P38:symbol
-Fixes:P402:symbol
 Fixes:P403:symbol
-Fixes:P75:symbol
 Fixes:PAKMA:symbol
 Fixes:PASGU:symbol
 Fixes:PATVU:symbol
+Fixes:PAVPA:symbol
 Fixes:POVUN:symbol
 Fixes:PUBOV:symbol
 Fixes:REPUV:symbol
@@ -140,6 +139,7 @@ Fixes:REVKU:symbol
 Fixes:RUMGU:symbol
 Fixes:RUXIL:symbol
 Fixes:SAGUD:symbol
+Fixes:SALUG:symbol
 Fixes:SUKTO:symbol
 Fixes:SUPEV:symbol
 Fixes:TAMIX:symbol
@@ -150,17 +150,20 @@ Fixes:UBKOX:symbol
 Fixes:UBTAG:symbol
 Fixes:UDUMI:symbol
 Fixes:UNTEL:symbol
+Fixes:UNTIN:symbol
 Fixes:UPGUR:symbol
 Fixes:UPMAT:symbol
 Fixes:UPNEM:symbol
 Fixes:URGEB:symbol
 Fixes:URGIN:symbol
+Fixes:VADBU:symbol
 Fixes:VADMO:symbol
 Fixes:VARDU:symbol
 Fixes:VENUT:symbol
 Fixes:VETIP:symbol
 Fixes:VEXAN:symbol
 Fixes:VIBUB:symbol
+Fixes:VIMAK:symbol
 Fixes:VINIG:symbol
 Fixes:GULEK:symbol
 Fixes:MIDOX:symbol
@@ -228,6 +231,16 @@ High airways:W638:line
 High airways:W639:line
 High airways:W663:line
 High airways:W665:line
+High airways:W667:line
+High airways:W668:line
+High airways:W669:line
+High airways:W670:line
+High airways:W671:line
+High airways:W672:line
+High airways:W673:line
+High airways:W674:line
+High airways:W675:line
+High airways:W676:line
 High airways:W80:line
 High airways:W82:line
 High airways:W83:line

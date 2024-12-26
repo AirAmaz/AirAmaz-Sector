@@ -238,7 +238,6 @@ Fixes:PUNIR:symbol
 Fixes:REBIS:symbol
 Fixes:REKSO:symbol
 Fixes:RIKMO:symbol
-Fixes:ROMEO:symbol
 Fixes:RUKLI:symbol
 Fixes:RUSES:symbol
 Fixes:SALIV:symbol
@@ -290,10 +289,12 @@ Fixes:XOPEK:symbol
 Fixes:ZGZX:symbol
 Fixes:ZUH27/ZG:symbol
 Fixes:ZUH75:symbol
+Fixes:AGUXI:symbol
 Fixes:ATSUD:symbol
 Fixes:AVLEN:symbol
 Fixes:BENBI:symbol
 Fixes:BIVIP:symbol
+Fixes:DAMEG:symbol
 Fixes:DAPRO:symbol
 Fixes:DELEG:symbol
 Fixes:DUBAS:symbol
@@ -313,41 +314,42 @@ Fixes:IDNUS:symbol
 Fixes:IDPOG:symbol
 Fixes:IGEDU:symbol
 Fixes:IGITA:symbol
+Fixes:IGNIK:symbol
 Fixes:IKUBA:symbol
 Fixes:KAKSU:symbol
 Fixes:MEGOB:symbol
 Fixes:NIVUV:symbol
+Fixes:NODIM:symbol
 Fixes:OBDON:symbol
 Fixes:OBLIK:symbol
 Fixes:OLMIB:symbol
 Fixes:OLPOV:symbol
+Fixes:ONUDU:symbol
+Fixes:OSIRU:symbol
 Fixes:OSREK:symbol
+Fixes:OTBUG:symbol
 Fixes:OVLAR:symbol
-Fixes:P106:symbol
-Fixes:P124:symbol
-Fixes:P130:symbol
-Fixes:P24:symbol
-Fixes:P254:symbol
-Fixes:P346:symbol
-Fixes:P38:symbol
-Fixes:P402:symbol
 Fixes:P403:symbol
-Fixes:P75:symbol
+Fixes:PAVPA:symbol
 Fixes:POVUN:symbol
 Fixes:REPUV:symbol
 Fixes:REVKU:symbol
 Fixes:RUXIL:symbol
 Fixes:SAGUD:symbol
+Fixes:SALUG:symbol
 Fixes:TIKME:symbol
 Fixes:UBKOX:symbol
 Fixes:UBTAG:symbol
 Fixes:UDUMI:symbol
+Fixes:UNTIN:symbol
 Fixes:UPGUR:symbol
 Fixes:UPMAT:symbol
 Fixes:URGEB:symbol
+Fixes:VADBU:symbol
 Fixes:VARDU:symbol
 Fixes:VEXAN:symbol
 Fixes:VIBUB:symbol
+Fixes:VIMAK:symbol
 Fixes:AGTEL:symbol
 Fixes:DOMGO:symbol
 Fixes:RUNEG:symbol
@@ -491,6 +493,16 @@ High airways:W615:line
 High airways:W616:line
 High airways:W617:line
 High airways:W618:line
+High airways:W667:line
+High airways:W668:line
+High airways:W669:line
+High airways:W670:line
+High airways:W671:line
+High airways:W672:line
+High airways:W673:line
+High airways:W674:line
+High airways:W675:line
+High airways:W676:line
 High airways:W68:line
 High airways:W7:line
 High airways:W70:line

@@ -127,6 +127,8 @@ Window_APP_Rotation=54.40499999999997
 Window_APP_Rotation=92.649
 [ZSTX]
 Window_APP_Rotation=141.89100000000002
+[ZSWA]
+Window_APP_Rotation=40.05599999999998
 [ZSWH]
 Window_APP_Rotation=71.596
 [ZSWX]
